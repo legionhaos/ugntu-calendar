@@ -1,0 +1,5295 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//BCSH02-26-02 Schedule//rusoil.net parser//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание БЦШ02-26-02
+X-PUBLISHED-TTL:PT6H
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VEVENT
+SUMMARY:Модуль по физической культуре и спо
+ рту (оздоровительная гимнастика) (практи
+ ческое занятие)
+DTSTART;TZID=Asia/Yekaterinburg:20261001T084500
+DTEND;TZID=Asia/Yekaterinburg:20261001T102000
+DTSTAMP:20261006T162706Z
+UID:a2583e9427cb9efec974877effa62470@rusoil-schedule
+DESCRIPTION:Преподаватель: Морошенко Екатери
+ на Витальевна\nТип: практическое занятие
+LOCATION:УФК-1-3
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📚 Лекция: Основы российской госуда
+ рственности
+DTSTART;TZID=Asia/Yekaterinburg:20261001T121500
+DTEND;TZID=Asia/Yekaterinburg:20261001T135000
+DTSTAMP:20261006T162706Z
+UID:cc6a86feebb033c21a341d115ea2e884@rusoil-schedule
+DESCRIPTION:Преподаватель: Гиндуллин Наиль Фа
+ нильевич\nТип: лекция
+LOCATION:3-409
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📚 Лекция: Линейная алгебра и матема
+ тический анализ
+DTSTART;TZID=Asia/Yekaterinburg:20261001T143500
+DTEND;TZID=Asia/Yekaterinburg:20261001T161000
+DTSTAMP:20261006T162706Z
+UID:a224a64b0fb801d1fc41279f4794570e@rusoil-schedule
+DESCRIPTION:Преподаватель:   \nТип: лекция
+LOCATION:1-359
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (утро)
+DTSTART;TZID=Asia/Yekaterinburg:20261001T064500
+DTEND;TZID=Asia/Yekaterinburg:20261001T084500
+DTSTAMP:20261006T162706Z
+UID:978c2872baeb4b2b2e8ad6ddf3285c44@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (вечер)
+DTSTART;TZID=Asia/Yekaterinburg:20261001T161000
+DTEND;TZID=Asia/Yekaterinburg:20261001T010000
+DTSTAMP:20261006T162706Z
+UID:0509d41c0274028a162fc2009b97c46c@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📚 Лекция: Программирование и прото
+ типирование ИТ-решений
+DTSTART;TZID=Asia/Yekaterinburg:20261201T143500
+DTEND;TZID=Asia/Yekaterinburg:20261201T161000
+DTSTAMP:20261006T162706Z
+UID:b0feeb65669b1299f130ebffc7b2acbc@rusoil-schedule
+DESCRIPTION:Преподаватель: Ахметов Ильнур Ваз
+ ирович\nТип: лекция
+LOCATION:-
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (утро)
+DTSTART;TZID=Asia/Yekaterinburg:20261201T123500
+DTEND;TZID=Asia/Yekaterinburg:20261201T143500
+DTSTAMP:20261006T162706Z
+UID:77ab29aab3486c0b36b6ad69277a0207@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (вечер)
+DTSTART;TZID=Asia/Yekaterinburg:20261201T161000
+DTEND;TZID=Asia/Yekaterinburg:20261201T010000
+DTSTAMP:20261006T162706Z
+UID:220511dbb63980755bae1385c69fe5b8@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📚 Лекция: Основы российской госуда
+ рственности
+DTSTART;TZID=Asia/Yekaterinburg:20261002T084500
+DTEND;TZID=Asia/Yekaterinburg:20261002T102000
+DTSTAMP:20261006T162706Z
+UID:901b33b787031cb2513c960a48217f7c@rusoil-schedule
+DESCRIPTION:Преподаватель: Гиндуллин Наиль Фа
+ нильевич\nТип: лекция
+LOCATION:3-406
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Школа 21 -  ул. Заки Валиди\, 32/2Б (проче
+ е)
+DTSTART;TZID=Asia/Yekaterinburg:20261002T143500
+DTEND;TZID=Asia/Yekaterinburg:20261002T161000
+DTSTAMP:20261006T162706Z
+UID:94cccf4f27e2d86ae4a9b6a1d69eb9f2@rusoil-schedule
+DESCRIPTION:Преподаватель: Попов Денис Владим
+ ирович\nТип: прочее
+LOCATION:Кампус-628
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (утро)
+DTSTART;TZID=Asia/Yekaterinburg:20261002T064500
+DTEND;TZID=Asia/Yekaterinburg:20261002T084500
+DTSTAMP:20261006T162706Z
+UID:ed635d2ce2ac7d7f70667ee23a93517e@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (блок)
+DTSTART;TZID=Asia/Yekaterinburg:20261002T102000
+DTEND;TZID=Asia/Yekaterinburg:20261002T122000
+DTSTAMP:20261006T162706Z
+UID:d015be9a844196b3712e4a3df8de57d0@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (вечер)
+DTSTART;TZID=Asia/Yekaterinburg:20261002T161000
+DTEND;TZID=Asia/Yekaterinburg:20261002T010000
+DTSTAMP:20261006T162706Z
+UID:160c2f17193946e06797328a15d9d911@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📚 Лекция: Программирование и прото
+ типирование ИТ-решений
+DTSTART;TZID=Asia/Yekaterinburg:20261102T103000
+DTEND;TZID=Asia/Yekaterinburg:20261102T120500
+DTSTAMP:20261006T162706Z
+UID:07a97b37bafe52e77fe2241988fe2f12@rusoil-schedule
+DESCRIPTION:Преподаватель: Ахметов Ильнур Ваз
+ ирович\nТип: лекция
+LOCATION:-
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Модуль по физической культуре и спо
+ рту (оздоровительная гимнастика) (практи
+ ческое занятие)
+DTSTART;TZID=Asia/Yekaterinburg:20261102T121500
+DTEND;TZID=Asia/Yekaterinburg:20261102T135000
+DTSTAMP:20261006T162706Z
+UID:2f06d732444330b13398814860cbbff7@rusoil-schedule
+DESCRIPTION:Преподаватель: Морошенко Екатери
+ на Витальевна\nТип: практическое занятие
+LOCATION:УФК-1-3
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Английский язык (базовый уровень) (п
+ рактическое занятие)
+DTSTART;TZID=Asia/Yekaterinburg:20261102T143500
+DTEND;TZID=Asia/Yekaterinburg:20261102T161000
+DTSTAMP:20261006T162706Z
+UID:a2260b0994db5e352485a4d2a5631e88@rusoil-schedule
+DESCRIPTION:Преподаватель:   \nТип: практическо
+ е занятие
+LOCATION:-
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Английский язык (продвинутый уровен
+ ь) (практическое занятие)
+DTSTART;TZID=Asia/Yekaterinburg:20261102T143500
+DTEND;TZID=Asia/Yekaterinburg:20261102T161000
+DTSTAMP:20261006T162706Z
+UID:d2b0334dc6c6fa5f9640e24f138b9e71@rusoil-schedule
+DESCRIPTION:Преподаватель: Анохина Светлана З
+ агировна\nТип: практическое занятие
+LOCATION:-
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (утро)
+DTSTART;TZID=Asia/Yekaterinburg:20261102T083000
+DTEND;TZID=Asia/Yekaterinburg:20261102T103000
+DTSTAMP:20261006T162706Z
+UID:fb1bdaf9b9df9d496a10ab5774803ce6@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (вечер)
+DTSTART;TZID=Asia/Yekaterinburg:20261102T161000
+DTEND;TZID=Asia/Yekaterinburg:20261102T010000
+DTSTAMP:20261006T162706Z
+UID:0e4a84bb4c2d8afb5e65e1cb3990b64e@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Программирование и прототипировани
+ е ИТ-решений (лаб.работа)
+DTSTART;TZID=Asia/Yekaterinburg:20261202T121500
+DTEND;TZID=Asia/Yekaterinburg:20261202T135000
+DTSTAMP:20261006T162706Z
+UID:89d92e381fd0a89b6afaa14ec6277db5@rusoil-schedule
+DESCRIPTION:Преподаватель: Ахметов Ильнур Ваз
+ ирович\nТип: лаб.работа
+LOCATION:Кампус-715
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Программирование и прототипировани
+ е ИТ-решений (лаб.работа)
+DTSTART;TZID=Asia/Yekaterinburg:20261202T121500
+DTEND;TZID=Asia/Yekaterinburg:20261202T135000
+DTSTAMP:20261006T162706Z
+UID:89d92e381fd0a89b6afaa14ec6277db5@rusoil-schedule
+DESCRIPTION:Преподаватель:   \nТип: лаб.работа
+LOCATION:Кампус-617\,1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Программирование и прототипировани
+ е ИТ-решений (лаб.работа)
+DTSTART;TZID=Asia/Yekaterinburg:20261202T143500
+DTEND;TZID=Asia/Yekaterinburg:20261202T161000
+DTSTAMP:20261006T162706Z
+UID:de25405112b922dba34d83d650a3e531@rusoil-schedule
+DESCRIPTION:Преподаватель: Ахметов Ильнур Ваз
+ ирович\nТип: лаб.работа
+LOCATION:Кампус-715
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Программирование и прототипировани
+ е ИТ-решений (лаб.работа)
+DTSTART;TZID=Asia/Yekaterinburg:20261202T143500
+DTEND;TZID=Asia/Yekaterinburg:20261202T161000
+DTSTAMP:20261006T162706Z
+UID:de25405112b922dba34d83d650a3e531@rusoil-schedule
+DESCRIPTION:Преподаватель:   \nТип: лаб.работа
+LOCATION:Кампус-617\,1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (утро)
+DTSTART;TZID=Asia/Yekaterinburg:20261202T101500
+DTEND;TZID=Asia/Yekaterinburg:20261202T121500
+DTSTAMP:20261006T162706Z
+UID:f5739775916340fabea9f1435f09cb49@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (вечер)
+DTSTART;TZID=Asia/Yekaterinburg:20261202T161000
+DTEND;TZID=Asia/Yekaterinburg:20261202T010000
+DTSTAMP:20261006T162706Z
+UID:ddb6fb241356c6b7b6e67e44abb3d4fa@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📚 Лекция: Линейная алгебра и матема
+ тический анализ
+DTSTART;TZID=Asia/Yekaterinburg:20261103T143500
+DTEND;TZID=Asia/Yekaterinburg:20261103T161000
+DTSTAMP:20261006T162706Z
+UID:2ab648c25c188b77e3bba81169ee11cb@rusoil-schedule
+DESCRIPTION:Преподаватель:   \nТип: лекция
+LOCATION:-
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📚 Лекция: Программирование и прото
+ типирование ИТ-решений
+DTSTART;TZID=Asia/Yekaterinburg:20261103T162000
+DTEND;TZID=Asia/Yekaterinburg:20261103T175500
+DTSTAMP:20261006T162706Z
+UID:fd94a52d1d9d1bc12378c6bfd654aaf2@rusoil-schedule
+DESCRIPTION:Преподаватель: Ахметов Ильнур Ваз
+ ирович\nТип: лекция
+LOCATION:-
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (утро)
+DTSTART;TZID=Asia/Yekaterinburg:20261103T123500
+DTEND;TZID=Asia/Yekaterinburg:20261103T143500
+DTSTAMP:20261006T162706Z
+UID:ed6ac31638dd953d94bd7064c220dc64@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (вечер)
+DTSTART;TZID=Asia/Yekaterinburg:20261103T175500
+DTEND;TZID=Asia/Yekaterinburg:20261103T010000
+DTSTAMP:20261006T162706Z
+UID:467c9444c2a13d4d55b1269a10f4f300@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Модуль по физической культуре и спо
+ рту (оздоровительная гимнастика) (практи
+ ческое занятие)
+DTSTART;TZID=Asia/Yekaterinburg:20261203T084500
+DTEND;TZID=Asia/Yekaterinburg:20261203T102000
+DTSTAMP:20261006T162706Z
+UID:9b4c1112f35cb40fbc3bb6498b70690b@rusoil-schedule
+DESCRIPTION:Преподаватель: Морошенко Екатери
+ на Витальевна\nТип: практическое занятие
+LOCATION:УФК-1-3
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📚 Лекция: Основы российской госуда
+ рственности
+DTSTART;TZID=Asia/Yekaterinburg:20261203T143500
+DTEND;TZID=Asia/Yekaterinburg:20261203T161000
+DTSTAMP:20261006T162706Z
+UID:893efda1bfafef8afb3ee15adc3185d3@rusoil-schedule
+DESCRIPTION:Преподаватель: Гиндуллин Наиль Фа
+ нильевич\nТип: лекция
+LOCATION:-
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (утро)
+DTSTART;TZID=Asia/Yekaterinburg:20261203T064500
+DTEND;TZID=Asia/Yekaterinburg:20261203T084500
+DTSTAMP:20261006T162706Z
+UID:1db3e502e5a50d454008142841dbf0db@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (блок)
+DTSTART;TZID=Asia/Yekaterinburg:20261203T102000
+DTEND;TZID=Asia/Yekaterinburg:20261203T122000
+DTSTAMP:20261006T162706Z
+UID:35e40250a467a4b14a5818c726438f8f@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (вечер)
+DTSTART;TZID=Asia/Yekaterinburg:20261203T161000
+DTEND;TZID=Asia/Yekaterinburg:20261203T010000
+DTSTAMP:20261006T162706Z
+UID:8a2e11aab162a7999bd7097913447a2d@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Основы баз данных (лаб.работа)
+DTSTART;TZID=Asia/Yekaterinburg:20261204T121500
+DTEND;TZID=Asia/Yekaterinburg:20261204T135000
+DTSTAMP:20261006T162706Z
+UID:f4aeb3296d5ac5548c8ea7c629a1760c@rusoil-schedule
+DESCRIPTION:Преподаватель: Захаров Андрей Вла
+ димирович\nТип: лаб.работа
+LOCATION:Кампус-715
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Основы баз данных (лаб.работа)
+DTSTART;TZID=Asia/Yekaterinburg:20261204T121500
+DTEND;TZID=Asia/Yekaterinburg:20261204T135000
+DTSTAMP:20261006T162706Z
+UID:f4aeb3296d5ac5548c8ea7c629a1760c@rusoil-schedule
+DESCRIPTION:Преподаватель:   \nТип: лаб.работа
+LOCATION:Кампус-617\,1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Основы баз данных (лаб.работа)
+DTSTART;TZID=Asia/Yekaterinburg:20261204T143500
+DTEND;TZID=Asia/Yekaterinburg:20261204T161000
+DTSTAMP:20261006T162706Z
+UID:898e32686486b0c498de78af26c7b26e@rusoil-schedule
+DESCRIPTION:Преподаватель: Захаров Андрей Вла
+ димирович\nТип: лаб.работа
+LOCATION:Кампус-715
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Основы баз данных (лаб.работа)
+DTSTART;TZID=Asia/Yekaterinburg:20261204T143500
+DTEND;TZID=Asia/Yekaterinburg:20261204T161000
+DTSTAMP:20261006T162706Z
+UID:898e32686486b0c498de78af26c7b26e@rusoil-schedule
+DESCRIPTION:Преподаватель:   \nТип: лаб.работа
+LOCATION:Кампус-617\,1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (утро)
+DTSTART;TZID=Asia/Yekaterinburg:20261204T101500
+DTEND;TZID=Asia/Yekaterinburg:20261204T121500
+DTSTAMP:20261006T162706Z
+UID:9739227181fd9f563a18e1718cd934c5@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (вечер)
+DTSTART;TZID=Asia/Yekaterinburg:20261204T161000
+DTEND;TZID=Asia/Yekaterinburg:20261204T010000
+DTSTAMP:20261006T162706Z
+UID:4a234ca55a295ef60406bbe335513d81@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Основы российской государственност
+ и (практическое занятие)
+DTSTART;TZID=Asia/Yekaterinburg:20261005T084500
+DTEND;TZID=Asia/Yekaterinburg:20261005T102000
+DTSTAMP:20261006T162706Z
+UID:5ab9ba506fd811b441d8cdd929bcb55e@rusoil-schedule
+DESCRIPTION:Преподаватель: Гиндуллин Наиль Фа
+ нильевич\nТип: практическое занятие
+LOCATION:2-217
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📚 Лекция: Программирование и прото
+ типирование ИТ-решений
+DTSTART;TZID=Asia/Yekaterinburg:20261005T103000
+DTEND;TZID=Asia/Yekaterinburg:20261005T120500
+DTSTAMP:20261006T162706Z
+UID:ee0ebfdd78a36db332c2c7e39f700396@rusoil-schedule
+DESCRIPTION:Преподаватель: Ахметов Ильнур Ваз
+ ирович\nТип: лекция
+LOCATION:8-226
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Модуль по физической культуре и спо
+ рту (оздоровительная гимнастика) (практи
+ ческое занятие)
+DTSTART;TZID=Asia/Yekaterinburg:20261005T121500
+DTEND;TZID=Asia/Yekaterinburg:20261005T135000
+DTSTAMP:20261006T162706Z
+UID:8ccd4df16cc6a8741141fd55cb63a735@rusoil-schedule
+DESCRIPTION:Преподаватель: Морошенко Екатери
+ на Витальевна\nТип: практическое занятие
+LOCATION:УФК-1-3
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Английский язык (базовый уровень) (п
+ рактическое занятие)
+DTSTART;TZID=Asia/Yekaterinburg:20261005T143500
+DTEND;TZID=Asia/Yekaterinburg:20261005T161000
+DTSTAMP:20261006T162706Z
+UID:494c182ffede39a9458dcbbeef4089c2@rusoil-schedule
+DESCRIPTION:Преподаватель:   \nТип: практическо
+ е занятие
+LOCATION:2-518
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Английский язык (базовый уровень) (п
+ рактическое занятие)
+DTSTART;TZID=Asia/Yekaterinburg:20261005T143500
+DTEND;TZID=Asia/Yekaterinburg:20261005T161000
+DTSTAMP:20261006T162706Z
+UID:494c182ffede39a9458dcbbeef4089c2@rusoil-schedule
+DESCRIPTION:Преподаватель:   \nТип: практическо
+ е занятие
+LOCATION:3-111
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Английский язык (продвинутый уровен
+ ь) (практическое занятие)
+DTSTART;TZID=Asia/Yekaterinburg:20261005T143500
+DTEND;TZID=Asia/Yekaterinburg:20261005T161000
+DTSTAMP:20261006T162706Z
+UID:724904c7d8c9bf1316991119a30df7d8@rusoil-schedule
+DESCRIPTION:Преподаватель: Анохина Светлана З
+ агировна\nТип: практическое занятие
+LOCATION:2в-303
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (утро)
+DTSTART;TZID=Asia/Yekaterinburg:20261005T064500
+DTEND;TZID=Asia/Yekaterinburg:20261005T084500
+DTSTAMP:20261006T162706Z
+UID:e569ae37985259764d168989eba6c773@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (вечер)
+DTSTART;TZID=Asia/Yekaterinburg:20261005T161000
+DTEND;TZID=Asia/Yekaterinburg:20261005T010000
+DTSTAMP:20261006T162706Z
+UID:da585ecf6a451126b5b3bb323b2910ed@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Модуль по физической культуре и спо
+ рту (оздоровительная гимнастика) (практи
+ ческое занятие)
+DTSTART;TZID=Asia/Yekaterinburg:20261105T084500
+DTEND;TZID=Asia/Yekaterinburg:20261105T102000
+DTSTAMP:20261006T162706Z
+UID:a48f8d188612653b3c968bed2ed77b39@rusoil-schedule
+DESCRIPTION:Преподаватель: Морошенко Екатери
+ на Витальевна\nТип: практическое занятие
+LOCATION:УФК-1-3
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📚 Лекция: Основы российской госуда
+ рственности
+DTSTART;TZID=Asia/Yekaterinburg:20261105T121500
+DTEND;TZID=Asia/Yekaterinburg:20261105T135000
+DTSTAMP:20261006T162706Z
+UID:f8f1e95d4febb60ff1113234592e5cb0@rusoil-schedule
+DESCRIPTION:Преподаватель: Гиндуллин Наиль Фа
+ нильевич\nТип: лекция
+LOCATION:3-412
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📚 Лекция: Линейная алгебра и матема
+ тический анализ
+DTSTART;TZID=Asia/Yekaterinburg:20261105T143500
+DTEND;TZID=Asia/Yekaterinburg:20261105T161000
+DTSTAMP:20261006T162706Z
+UID:199091b413b7ec8953edbc39838d8432@rusoil-schedule
+DESCRIPTION:Преподаватель:   \nТип: лекция
+LOCATION:-
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (утро)
+DTSTART;TZID=Asia/Yekaterinburg:20261105T064500
+DTEND;TZID=Asia/Yekaterinburg:20261105T084500
+DTSTAMP:20261006T162706Z
+UID:e6bdf89d7e57d5883c0563e6e28475b9@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (вечер)
+DTSTART;TZID=Asia/Yekaterinburg:20261105T161000
+DTEND;TZID=Asia/Yekaterinburg:20261105T010000
+DTSTAMP:20261006T162706Z
+UID:8b78169b3196d9c178c46ad9633b4144@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📚 Лекция: Линейная алгебра и матема
+ тический анализ
+DTSTART;TZID=Asia/Yekaterinburg:20261006T121500
+DTEND;TZID=Asia/Yekaterinburg:20261006T135000
+DTSTAMP:20261006T162706Z
+UID:0277815d3bc94985aff10f16b4ff319c@rusoil-schedule
+DESCRIPTION:Преподаватель:   \nТип: лекция
+LOCATION:1-360
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Линейная алгебра и математический а
+ нализ (лаб.работа)
+DTSTART;TZID=Asia/Yekaterinburg:20261006T143500
+DTEND;TZID=Asia/Yekaterinburg:20261006T161000
+DTSTAMP:20261006T162706Z
+UID:55550b448647c2ebe44cb27a558839d5@rusoil-schedule
+DESCRIPTION:Преподаватель: Шарипов Артём Рази
+ левич\nТип: лаб.работа
+LOCATION:2-518
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (утро)
+DTSTART;TZID=Asia/Yekaterinburg:20261006T101500
+DTEND;TZID=Asia/Yekaterinburg:20261006T121500
+DTSTAMP:20261006T162706Z
+UID:443aa7fef76be1a61ba5e8965a2d2057@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (вечер)
+DTSTART;TZID=Asia/Yekaterinburg:20261006T161000
+DTEND;TZID=Asia/Yekaterinburg:20261006T010000
+DTSTAMP:20261006T162706Z
+UID:65b84fa3f3bb3353929a3b8e4408e30f@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Основы баз данных (лаб.работа)
+DTSTART;TZID=Asia/Yekaterinburg:20261106T084500
+DTEND;TZID=Asia/Yekaterinburg:20261106T102000
+DTSTAMP:20261006T162706Z
+UID:1eaa6330c566ec9eb870251df8ecc142@rusoil-schedule
+DESCRIPTION:Преподаватель: Захаров Андрей Вла
+ димирович\nТип: лаб.работа
+LOCATION:Кампус-715
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Основы баз данных (лаб.работа)
+DTSTART;TZID=Asia/Yekaterinburg:20261106T084500
+DTEND;TZID=Asia/Yekaterinburg:20261106T102000
+DTSTAMP:20261006T162706Z
+UID:1eaa6330c566ec9eb870251df8ecc142@rusoil-schedule
+DESCRIPTION:Преподаватель:   \nТип: лаб.работа
+LOCATION:Кампус-617\,1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Основы баз данных (лаб.работа)
+DTSTART;TZID=Asia/Yekaterinburg:20261106T103000
+DTEND;TZID=Asia/Yekaterinburg:20261106T120500
+DTSTAMP:20261006T162706Z
+UID:1cb14368fdad168905c7bafc2a515a89@rusoil-schedule
+DESCRIPTION:Преподаватель:   \nТип: лаб.работа
+LOCATION:Кампус-617\,1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Основы баз данных (лаб.работа)
+DTSTART;TZID=Asia/Yekaterinburg:20261106T103000
+DTEND;TZID=Asia/Yekaterinburg:20261106T120500
+DTSTAMP:20261006T162706Z
+UID:1cb14368fdad168905c7bafc2a515a89@rusoil-schedule
+DESCRIPTION:Преподаватель: Захаров Андрей Вла
+ димирович\nТип: лаб.работа
+LOCATION:Кампус-715
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (утро)
+DTSTART;TZID=Asia/Yekaterinburg:20261106T064500
+DTEND;TZID=Asia/Yekaterinburg:20261106T084500
+DTSTAMP:20261006T162706Z
+UID:17263dd1bfb180be33e083dc7ea34fdb@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (вечер)
+DTSTART;TZID=Asia/Yekaterinburg:20261106T120500
+DTEND;TZID=Asia/Yekaterinburg:20261106T010000
+DTSTAMP:20261006T162706Z
+UID:309f32bcc425158fb9ab8d4262132ef2@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📚 Лекция: Основы баз данных
+DTSTART;TZID=Asia/Yekaterinburg:20261007T121500
+DTEND;TZID=Asia/Yekaterinburg:20261007T135000
+DTSTAMP:20261006T162706Z
+UID:1ca3c292ed67c99e3f373e181c716a6c@rusoil-schedule
+DESCRIPTION:Преподаватель: Захаров Андрей Вла
+ димирович\nТип: лекция
+LOCATION:1-360
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Английский язык (продвинутый уровен
+ ь) (практическое занятие)
+DTSTART;TZID=Asia/Yekaterinburg:20261007T143500
+DTEND;TZID=Asia/Yekaterinburg:20261007T161000
+DTSTAMP:20261006T162706Z
+UID:1cd42d6473ec7d3d6975cb261a932520@rusoil-schedule
+DESCRIPTION:Преподаватель: Анохина Светлана З
+ агировна\nТип: практическое занятие
+LOCATION:3-315а
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (утро)
+DTSTART;TZID=Asia/Yekaterinburg:20261007T101500
+DTEND;TZID=Asia/Yekaterinburg:20261007T121500
+DTSTAMP:20261006T162706Z
+UID:55d0c2b70753dbfead50f64b42d94f32@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (вечер)
+DTSTART;TZID=Asia/Yekaterinburg:20261007T161000
+DTEND;TZID=Asia/Yekaterinburg:20261007T010000
+DTSTAMP:20261006T162706Z
+UID:8c2e2030b254f040c057d9e5d46daaf8@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Программирование и прототипировани
+ е ИТ-решений (лаб.работа)
+DTSTART;TZID=Asia/Yekaterinburg:20261107T121500
+DTEND;TZID=Asia/Yekaterinburg:20261107T135000
+DTSTAMP:20261006T162706Z
+UID:3301dc0d8d958008d9da9cf9bcb9542d@rusoil-schedule
+DESCRIPTION:Преподаватель: Ахметов Ильнур Ваз
+ ирович\nТип: лаб.работа
+LOCATION:Кампус-715
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Программирование и прототипировани
+ е ИТ-решений (лаб.работа)
+DTSTART;TZID=Asia/Yekaterinburg:20261107T121500
+DTEND;TZID=Asia/Yekaterinburg:20261107T135000
+DTSTAMP:20261006T162706Z
+UID:3301dc0d8d958008d9da9cf9bcb9542d@rusoil-schedule
+DESCRIPTION:Преподаватель:   \nТип: лаб.работа
+LOCATION:Кампус-617\,1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Программирование и прототипировани
+ е ИТ-решений (лаб.работа)
+DTSTART;TZID=Asia/Yekaterinburg:20261107T143500
+DTEND;TZID=Asia/Yekaterinburg:20261107T161000
+DTSTAMP:20261006T162706Z
+UID:1364f02cd840c554f46df6fc32f63432@rusoil-schedule
+DESCRIPTION:Преподаватель: Ахметов Ильнур Ваз
+ ирович\nТип: лаб.работа
+LOCATION:Кампус-715
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Программирование и прототипировани
+ е ИТ-решений (лаб.работа)
+DTSTART;TZID=Asia/Yekaterinburg:20261107T143500
+DTEND;TZID=Asia/Yekaterinburg:20261107T161000
+DTSTAMP:20261006T162706Z
+UID:1364f02cd840c554f46df6fc32f63432@rusoil-schedule
+DESCRIPTION:Преподаватель:   \nТип: лаб.работа
+LOCATION:Кампус-617\,1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Программирование и прототипировани
+ е ИТ-решений (практическое занятие)
+DTSTART;TZID=Asia/Yekaterinburg:20261107T162000
+DTEND;TZID=Asia/Yekaterinburg:20261107T175500
+DTSTAMP:20261006T162706Z
+UID:230a932389829a2134055269eafe0171@rusoil-schedule
+DESCRIPTION:Преподаватель: Ахметов Ильнур Ваз
+ ирович\nТип: практическое занятие
+LOCATION:Кампус-614
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (утро)
+DTSTART;TZID=Asia/Yekaterinburg:20261107T101500
+DTEND;TZID=Asia/Yekaterinburg:20261107T121500
+DTSTAMP:20261006T162706Z
+UID:a9f4f0e99cb8c005fc0ac8bb5a9418b0@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (вечер)
+DTSTART;TZID=Asia/Yekaterinburg:20261107T175500
+DTEND;TZID=Asia/Yekaterinburg:20261107T010000
+DTSTAMP:20261006T162706Z
+UID:272345cf06e0e16d2670572f9c722359@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Модуль по физической культуре и спо
+ рту (оздоровительная гимнастика) (практи
+ ческое занятие)
+DTSTART;TZID=Asia/Yekaterinburg:20261207T121500
+DTEND;TZID=Asia/Yekaterinburg:20261207T135000
+DTSTAMP:20261006T162706Z
+UID:85386745823be4458c49435545555d33@rusoil-schedule
+DESCRIPTION:Преподаватель: Морошенко Екатери
+ на Витальевна\nТип: практическое занятие
+LOCATION:УФК-1-3
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Английский язык (базовый уровень) (п
+ рактическое занятие)
+DTSTART;TZID=Asia/Yekaterinburg:20261207T143500
+DTEND;TZID=Asia/Yekaterinburg:20261207T161000
+DTSTAMP:20261006T162706Z
+UID:66e71fa0bfd13925da8527269813123c@rusoil-schedule
+DESCRIPTION:Преподаватель:   \nТип: практическо
+ е занятие
+LOCATION:-
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Английский язык (продвинутый уровен
+ ь) (практическое занятие)
+DTSTART;TZID=Asia/Yekaterinburg:20261207T143500
+DTEND;TZID=Asia/Yekaterinburg:20261207T161000
+DTSTAMP:20261006T162706Z
+UID:3698fe60c5805bf6cfd896866eb266c6@rusoil-schedule
+DESCRIPTION:Преподаватель: Анохина Светлана З
+ агировна\nТип: практическое занятие
+LOCATION:-
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (утро)
+DTSTART;TZID=Asia/Yekaterinburg:20261207T101500
+DTEND;TZID=Asia/Yekaterinburg:20261207T121500
+DTSTAMP:20261006T162706Z
+UID:15187b3d29663cfb79b67fa92c83545d@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (вечер)
+DTSTART;TZID=Asia/Yekaterinburg:20261207T161000
+DTEND;TZID=Asia/Yekaterinburg:20261207T010000
+DTSTAMP:20261006T162706Z
+UID:38554282f5d5204fc858db0f9b25da5e@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Модуль по физической культуре и спо
+ рту (оздоровительная гимнастика) (практи
+ ческое занятие)
+DTSTART;TZID=Asia/Yekaterinburg:20261008T084500
+DTEND;TZID=Asia/Yekaterinburg:20261008T102000
+DTSTAMP:20261006T162706Z
+UID:5161848100cf30778f2468d7eba26d3e@rusoil-schedule
+DESCRIPTION:Преподаватель: Морошенко Екатери
+ на Витальевна\nТип: практическое занятие
+LOCATION:УФК-1-3
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:История России (практическое заняти
+ е)
+DTSTART;TZID=Asia/Yekaterinburg:20261008T103000
+DTEND;TZID=Asia/Yekaterinburg:20261008T120500
+DTSTAMP:20261006T162706Z
+UID:dc38962b1985382b773ca3dbc2459bfb@rusoil-schedule
+DESCRIPTION:Преподаватель: Абросимов Никита С
+ ергеевич\nТип: практическое занятие
+LOCATION:2-218
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Линейная алгебра и математический а
+ нализ (практическое занятие)
+DTSTART;TZID=Asia/Yekaterinburg:20261008T121500
+DTEND;TZID=Asia/Yekaterinburg:20261008T135000
+DTSTAMP:20261006T162706Z
+UID:467a1eeb260b11f584cd72fb692e1e33@rusoil-schedule
+DESCRIPTION:Преподаватель: Шарипов Артём Рази
+ левич\nТип: практическое занятие
+LOCATION:4-416
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📚 Лекция: Основы российской госуда
+ рственности
+DTSTART;TZID=Asia/Yekaterinburg:20261008T195000
+DTEND;TZID=Asia/Yekaterinburg:20261008T211500
+DTSTAMP:20261006T162706Z
+UID:c704ce3957c385d0d24c348e15a40e9b@rusoil-schedule
+DESCRIPTION:Преподаватель: Гиндуллин Наиль Фа
+ нильевич\nТип: лекция
+LOCATION:-on-line
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (утро)
+DTSTART;TZID=Asia/Yekaterinburg:20261008T064500
+DTEND;TZID=Asia/Yekaterinburg:20261008T084500
+DTSTAMP:20261006T162706Z
+UID:3f8d907351297fb97ffbbac5ea2c1da6@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (блок)
+DTSTART;TZID=Asia/Yekaterinburg:20261008T135000
+DTEND;TZID=Asia/Yekaterinburg:20261008T155000
+DTSTAMP:20261006T162706Z
+UID:ac5d908e79debbe9f554dda54e559d7f@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (вечер)
+DTSTART;TZID=Asia/Yekaterinburg:20261008T211500
+DTEND;TZID=Asia/Yekaterinburg:20261008T010000
+DTSTAMP:20261006T162706Z
+UID:28baacd84c716f4686c008fbbea9cf90@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📚 Лекция: Программирование и прото
+ типирование ИТ-решений
+DTSTART;TZID=Asia/Yekaterinburg:20261208T143500
+DTEND;TZID=Asia/Yekaterinburg:20261208T161000
+DTSTAMP:20261006T162706Z
+UID:2b9b04a28bdccbc966d655a54377ebd6@rusoil-schedule
+DESCRIPTION:Преподаватель: Ахметов Ильнур Ваз
+ ирович\nТип: лекция
+LOCATION:-
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (утро)
+DTSTART;TZID=Asia/Yekaterinburg:20261208T123500
+DTEND;TZID=Asia/Yekaterinburg:20261208T143500
+DTSTAMP:20261006T162706Z
+UID:cc01ae133189343a2d89831ceab3051b@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (вечер)
+DTSTART;TZID=Asia/Yekaterinburg:20261208T161000
+DTEND;TZID=Asia/Yekaterinburg:20261208T010000
+DTSTAMP:20261006T162706Z
+UID:92bc610c70aeef48ed5dc6d427714d5a@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📚 Лекция: Программирование и прото
+ типирование ИТ-решений
+DTSTART;TZID=Asia/Yekaterinburg:20261009T143500
+DTEND;TZID=Asia/Yekaterinburg:20261009T161000
+DTSTAMP:20261006T162706Z
+UID:1d45e379f57af646486341addb171f3b@rusoil-schedule
+DESCRIPTION:Преподаватель: Ахметов Ильнур Ваз
+ ирович\nТип: лекция
+LOCATION:2-215
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (утро)
+DTSTART;TZID=Asia/Yekaterinburg:20261009T123500
+DTEND;TZID=Asia/Yekaterinburg:20261009T143500
+DTSTAMP:20261006T162706Z
+UID:177d200a7b68954bf715fc5e4f65fce5@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (вечер)
+DTSTART;TZID=Asia/Yekaterinburg:20261009T161000
+DTEND;TZID=Asia/Yekaterinburg:20261009T010000
+DTSTAMP:20261006T162706Z
+UID:576202fdc0d19c5d8e6669e86ef8c8fd@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📚 Лекция: Основы российской госуда
+ рственности
+DTSTART;TZID=Asia/Yekaterinburg:20261109T103000
+DTEND;TZID=Asia/Yekaterinburg:20261109T120500
+DTSTAMP:20261006T162706Z
+UID:6f5b79afab7ea8648c6b5601e52f6875@rusoil-schedule
+DESCRIPTION:Преподаватель: Гиндуллин Наиль Фа
+ нильевич\nТип: лекция
+LOCATION:2-317
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Модуль по физической культуре и спо
+ рту (оздоровительная гимнастика) (практи
+ ческое занятие)
+DTSTART;TZID=Asia/Yekaterinburg:20261109T121500
+DTEND;TZID=Asia/Yekaterinburg:20261109T135000
+DTSTAMP:20261006T162706Z
+UID:91da113d20a2c2bb5193817eda3a31e8@rusoil-schedule
+DESCRIPTION:Преподаватель: Морошенко Екатери
+ на Витальевна\nТип: практическое занятие
+LOCATION:УФК-1-3
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Английский язык (базовый уровень) (п
+ рактическое занятие)
+DTSTART;TZID=Asia/Yekaterinburg:20261109T143500
+DTEND;TZID=Asia/Yekaterinburg:20261109T161000
+DTSTAMP:20261006T162706Z
+UID:325018f748d5048ff3242e858a8797ab@rusoil-schedule
+DESCRIPTION:Преподаватель:   \nТип: практическо
+ е занятие
+LOCATION:-
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Английский язык (продвинутый уровен
+ ь) (практическое занятие)
+DTSTART;TZID=Asia/Yekaterinburg:20261109T143500
+DTEND;TZID=Asia/Yekaterinburg:20261109T161000
+DTSTAMP:20261006T162706Z
+UID:be93ca11caf6ca1dcb818c448b3a9d0a@rusoil-schedule
+DESCRIPTION:Преподаватель: Анохина Светлана З
+ агировна\nТип: практическое занятие
+LOCATION:-
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (утро)
+DTSTART;TZID=Asia/Yekaterinburg:20261109T083000
+DTEND;TZID=Asia/Yekaterinburg:20261109T103000
+DTSTAMP:20261006T162706Z
+UID:06650f2e0d51452988cd62b9f56658a3@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (вечер)
+DTSTART;TZID=Asia/Yekaterinburg:20261109T161000
+DTEND;TZID=Asia/Yekaterinburg:20261109T010000
+DTSTAMP:20261006T162706Z
+UID:f16559fa5d3a815c3b7b5ed304420a5e@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Программирование и прототипировани
+ е ИТ-решений (лаб.работа)
+DTSTART;TZID=Asia/Yekaterinburg:20261209T121500
+DTEND;TZID=Asia/Yekaterinburg:20261209T135000
+DTSTAMP:20261006T162706Z
+UID:1b157d763f94b2c95ea48b771d768c28@rusoil-schedule
+DESCRIPTION:Преподаватель: Ахметов Ильнур Ваз
+ ирович\nТип: лаб.работа
+LOCATION:Кампус-715
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Программирование и прототипировани
+ е ИТ-решений (лаб.работа)
+DTSTART;TZID=Asia/Yekaterinburg:20261209T121500
+DTEND;TZID=Asia/Yekaterinburg:20261209T135000
+DTSTAMP:20261006T162706Z
+UID:1b157d763f94b2c95ea48b771d768c28@rusoil-schedule
+DESCRIPTION:Преподаватель:   \nТип: лаб.работа
+LOCATION:Кампус-617\,1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Программирование и прототипировани
+ е ИТ-решений (лаб.работа)
+DTSTART;TZID=Asia/Yekaterinburg:20261209T143500
+DTEND;TZID=Asia/Yekaterinburg:20261209T161000
+DTSTAMP:20261006T162706Z
+UID:8f770e3d974da14d28f22f32ed007579@rusoil-schedule
+DESCRIPTION:Преподаватель:   \nТип: лаб.работа
+LOCATION:Кампус-617\,1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Программирование и прототипировани
+ е ИТ-решений (лаб.работа)
+DTSTART;TZID=Asia/Yekaterinburg:20261209T143500
+DTEND;TZID=Asia/Yekaterinburg:20261209T161000
+DTSTAMP:20261006T162706Z
+UID:8f770e3d974da14d28f22f32ed007579@rusoil-schedule
+DESCRIPTION:Преподаватель: Ахметов Ильнур Ваз
+ ирович\nТип: лаб.работа
+LOCATION:Кампус-715
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Программирование и прототипировани
+ е ИТ-решений (практическое занятие)
+DTSTART;TZID=Asia/Yekaterinburg:20261209T162000
+DTEND;TZID=Asia/Yekaterinburg:20261209T175500
+DTSTAMP:20261006T162706Z
+UID:35936e60646666a59ab29066824c9bd7@rusoil-schedule
+DESCRIPTION:Преподаватель: Ахметов Ильнур Ваз
+ ирович\nТип: практическое занятие
+LOCATION:Кампус-617\,1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (утро)
+DTSTART;TZID=Asia/Yekaterinburg:20261209T101500
+DTEND;TZID=Asia/Yekaterinburg:20261209T121500
+DTSTAMP:20261006T162706Z
+UID:bed28ad64242cefda99cd7d7f838c716@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (вечер)
+DTSTART;TZID=Asia/Yekaterinburg:20261209T175500
+DTEND;TZID=Asia/Yekaterinburg:20261209T010000
+DTSTAMP:20261006T162706Z
+UID:27f1024e03f07cdcc13aa1beccf8e90e@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📚 Лекция: История России
+DTSTART;TZID=Asia/Yekaterinburg:20261010T084500
+DTEND;TZID=Asia/Yekaterinburg:20261010T102000
+DTSTAMP:20261006T162706Z
+UID:3aa9c0fc9f11032733003c76adc37aae@rusoil-schedule
+DESCRIPTION:Преподаватель: Абросимов Никита С
+ ергеевич\nТип: лекция
+LOCATION:3-412
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📚 Лекция: История России
+DTSTART;TZID=Asia/Yekaterinburg:20261010T103000
+DTEND;TZID=Asia/Yekaterinburg:20261010T120500
+DTSTAMP:20261006T162706Z
+UID:1a5000ec02ea86be6e84347f7ea0aeb7@rusoil-schedule
+DESCRIPTION:Преподаватель: Абросимов Никита С
+ ергеевич\nТип: лекция
+LOCATION:2-317
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (утро)
+DTSTART;TZID=Asia/Yekaterinburg:20261010T064500
+DTEND;TZID=Asia/Yekaterinburg:20261010T084500
+DTSTAMP:20261006T162706Z
+UID:e371a213aa3c07a8eb2f9b347ea615a0@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (вечер)
+DTSTART;TZID=Asia/Yekaterinburg:20261010T120500
+DTEND;TZID=Asia/Yekaterinburg:20261010T010000
+DTSTAMP:20261006T162706Z
+UID:4fc55a387b5d01852226226eb0056b43@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📚 Лекция: Основы баз данных
+DTSTART;TZID=Asia/Yekaterinburg:20261111T121500
+DTEND;TZID=Asia/Yekaterinburg:20261111T135000
+DTSTAMP:20261006T162706Z
+UID:e862a4b690eb959778635a771140bdd7@rusoil-schedule
+DESCRIPTION:Преподаватель: Захаров Андрей Вла
+ димирович\nТип: лекция
+LOCATION:-
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (утро)
+DTSTART;TZID=Asia/Yekaterinburg:20261111T101500
+DTEND;TZID=Asia/Yekaterinburg:20261111T121500
+DTSTAMP:20261006T162706Z
+UID:c9577cd27266a33766fdd92ee54d8bfa@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (вечер)
+DTSTART;TZID=Asia/Yekaterinburg:20261111T135000
+DTEND;TZID=Asia/Yekaterinburg:20261111T010000
+DTSTAMP:20261006T162706Z
+UID:525b8d53990b0bed1132c8ff1f0ac818@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Основы баз данных (лаб.работа)
+DTSTART;TZID=Asia/Yekaterinburg:20261211T084500
+DTEND;TZID=Asia/Yekaterinburg:20261211T102000
+DTSTAMP:20261006T162706Z
+UID:07ffa8fb038640560ba505f3638191bf@rusoil-schedule
+DESCRIPTION:Преподаватель: Захаров Андрей Вла
+ димирович\nТип: лаб.работа
+LOCATION:Кампус-715
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Основы баз данных (лаб.работа)
+DTSTART;TZID=Asia/Yekaterinburg:20261211T084500
+DTEND;TZID=Asia/Yekaterinburg:20261211T102000
+DTSTAMP:20261006T162706Z
+UID:07ffa8fb038640560ba505f3638191bf@rusoil-schedule
+DESCRIPTION:Преподаватель:   \nТип: лаб.работа
+LOCATION:Кампус-617\,1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Основы баз данных (лаб.работа)
+DTSTART;TZID=Asia/Yekaterinburg:20261211T103000
+DTEND;TZID=Asia/Yekaterinburg:20261211T120500
+DTSTAMP:20261006T162706Z
+UID:019e1bcb164b8abd2d3d6983440c032a@rusoil-schedule
+DESCRIPTION:Преподаватель:   \nТип: лаб.работа
+LOCATION:Кампус-617\,1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Основы баз данных (лаб.работа)
+DTSTART;TZID=Asia/Yekaterinburg:20261211T103000
+DTEND;TZID=Asia/Yekaterinburg:20261211T120500
+DTSTAMP:20261006T162706Z
+UID:019e1bcb164b8abd2d3d6983440c032a@rusoil-schedule
+DESCRIPTION:Преподаватель: Захаров Андрей Вла
+ димирович\nТип: лаб.работа
+LOCATION:Кампус-715
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Основы баз данных (практическое зан
+ ятие)
+DTSTART;TZID=Asia/Yekaterinburg:20261211T121500
+DTEND;TZID=Asia/Yekaterinburg:20261211T135000
+DTSTAMP:20261006T162706Z
+UID:05223a90d883b8e31729d73695b6a219@rusoil-schedule
+DESCRIPTION:Преподаватель: Захаров Андрей Вла
+ димирович\nТип: практическое занятие
+LOCATION:Кампус-617\,1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (утро)
+DTSTART;TZID=Asia/Yekaterinburg:20261211T064500
+DTEND;TZID=Asia/Yekaterinburg:20261211T084500
+DTSTAMP:20261006T162706Z
+UID:f7c030ce290e1f681f36492ca41d1e06@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (вечер)
+DTSTART;TZID=Asia/Yekaterinburg:20261211T135000
+DTEND;TZID=Asia/Yekaterinburg:20261211T010000
+DTSTAMP:20261006T162706Z
+UID:84fb7ee5a7d407ae8e4eb7856fffe65f@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Модуль по физической культуре и спо
+ рту (оздоровительная гимнастика) (практи
+ ческое занятие)
+DTSTART;TZID=Asia/Yekaterinburg:20261112T084500
+DTEND;TZID=Asia/Yekaterinburg:20261112T102000
+DTSTAMP:20261006T162706Z
+UID:9d6bee55267770f7c32ceba3929b6bb5@rusoil-schedule
+DESCRIPTION:Преподаватель: Морошенко Екатери
+ на Витальевна\nТип: практическое занятие
+LOCATION:УФК-1-3
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📚 Лекция: Основы баз данных
+DTSTART;TZID=Asia/Yekaterinburg:20261112T103000
+DTEND;TZID=Asia/Yekaterinburg:20261112T120500
+DTSTAMP:20261006T162706Z
+UID:4718a12a4497e25ff04f203b8f958e6e@rusoil-schedule
+DESCRIPTION:Преподаватель: Захаров Андрей Вла
+ димирович\nТип: лекция
+LOCATION:-
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Основы баз данных (лаб.работа)
+DTSTART;TZID=Asia/Yekaterinburg:20261112T162000
+DTEND;TZID=Asia/Yekaterinburg:20261112T175500
+DTSTAMP:20261006T162706Z
+UID:78c73e1e7236941faf9b1447518768f4@rusoil-schedule
+DESCRIPTION:Преподаватель: Захаров Андрей Вла
+ димирович\nТип: лаб.работа
+LOCATION:Кампус-614
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Основы баз данных (лаб.работа)
+DTSTART;TZID=Asia/Yekaterinburg:20261112T162000
+DTEND;TZID=Asia/Yekaterinburg:20261112T175500
+DTSTAMP:20261006T162706Z
+UID:78c73e1e7236941faf9b1447518768f4@rusoil-schedule
+DESCRIPTION:Преподаватель:   \nТип: лаб.работа
+LOCATION:Кампус-617\,1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Основы баз данных (лаб.работа)
+DTSTART;TZID=Asia/Yekaterinburg:20261112T180500
+DTEND;TZID=Asia/Yekaterinburg:20261112T194000
+DTSTAMP:20261006T162706Z
+UID:7d86c225c58cb068b1e3762610d3b561@rusoil-schedule
+DESCRIPTION:Преподаватель:   \nТип: лаб.работа
+LOCATION:Кампус-617\,1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Основы баз данных (лаб.работа)
+DTSTART;TZID=Asia/Yekaterinburg:20261112T180500
+DTEND;TZID=Asia/Yekaterinburg:20261112T194000
+DTSTAMP:20261006T162706Z
+UID:7d86c225c58cb068b1e3762610d3b561@rusoil-schedule
+DESCRIPTION:Преподаватель: Захаров Андрей Вла
+ димирович\nТип: лаб.работа
+LOCATION:Кампус-614
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (утро)
+DTSTART;TZID=Asia/Yekaterinburg:20261112T064500
+DTEND;TZID=Asia/Yekaterinburg:20261112T084500
+DTSTAMP:20261006T162706Z
+UID:1021df4acb6033281fe8bd020617a8e7@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (блок)
+DTSTART;TZID=Asia/Yekaterinburg:20261112T120500
+DTEND;TZID=Asia/Yekaterinburg:20261112T140500
+DTSTAMP:20261006T162706Z
+UID:7cfd27b8949657bb53a998cde48fa72d@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (вечер)
+DTSTART;TZID=Asia/Yekaterinburg:20261112T194000
+DTEND;TZID=Asia/Yekaterinburg:20261112T010000
+DTSTAMP:20261006T162706Z
+UID:e3abc7596d401acdf47b9aa5329c4700@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Программирование и прототипировани
+ е ИТ-решений (лаб.работа)
+DTSTART;TZID=Asia/Yekaterinburg:20261013T121500
+DTEND;TZID=Asia/Yekaterinburg:20261013T135000
+DTSTAMP:20261006T162706Z
+UID:62f0e89321f3f855c254aecc1bd83e96@rusoil-schedule
+DESCRIPTION:Преподаватель:   \nТип: лаб.работа
+LOCATION:Кампус-617\,1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Программирование и прототипировани
+ е ИТ-решений (лаб.работа)
+DTSTART;TZID=Asia/Yekaterinburg:20261013T121500
+DTEND;TZID=Asia/Yekaterinburg:20261013T135000
+DTSTAMP:20261006T162706Z
+UID:62f0e89321f3f855c254aecc1bd83e96@rusoil-schedule
+DESCRIPTION:Преподаватель: Ахметов Ильнур Ваз
+ ирович\nТип: лаб.работа
+LOCATION:Кампус-715
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Программирование и прототипировани
+ е ИТ-решений (лаб.работа)
+DTSTART;TZID=Asia/Yekaterinburg:20261013T143500
+DTEND;TZID=Asia/Yekaterinburg:20261013T161000
+DTSTAMP:20261006T162706Z
+UID:81eb69783870061a7908f54ebc4379b5@rusoil-schedule
+DESCRIPTION:Преподаватель: Ахметов Ильнур Ваз
+ ирович\nТип: лаб.работа
+LOCATION:Кампус-715
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Программирование и прототипировани
+ е ИТ-решений (лаб.работа)
+DTSTART;TZID=Asia/Yekaterinburg:20261013T143500
+DTEND;TZID=Asia/Yekaterinburg:20261013T161000
+DTSTAMP:20261006T162706Z
+UID:81eb69783870061a7908f54ebc4379b5@rusoil-schedule
+DESCRIPTION:Преподаватель:   \nТип: лаб.работа
+LOCATION:Кампус-617\,1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📚 Лекция: Основы российской госуда
+ рственности
+DTSTART;TZID=Asia/Yekaterinburg:20261013T180500
+DTEND;TZID=Asia/Yekaterinburg:20261013T194000
+DTSTAMP:20261006T162706Z
+UID:4b0a7a60e466cae722f0d15f3e3f294f@rusoil-schedule
+DESCRIPTION:Преподаватель: Гиндуллин Наиль Фа
+ нильевич\nТип: лекция
+LOCATION:-on-line
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (утро)
+DTSTART;TZID=Asia/Yekaterinburg:20261013T101500
+DTEND;TZID=Asia/Yekaterinburg:20261013T121500
+DTSTAMP:20261006T162706Z
+UID:bcd5449f79d9fa443198078d526e4215@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (вечер)
+DTSTART;TZID=Asia/Yekaterinburg:20261013T194000
+DTEND;TZID=Asia/Yekaterinburg:20261013T010000
+DTSTAMP:20261006T162706Z
+UID:f92ebe5c941d33cfc104f5c89a39f670@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Программирование и прототипировани
+ е ИТ-решений (лаб.работа)
+DTSTART;TZID=Asia/Yekaterinburg:20261113T084500
+DTEND;TZID=Asia/Yekaterinburg:20261113T102000
+DTSTAMP:20261006T162706Z
+UID:4a0d16dc52fd2250d2d6bdb85b79aebe@rusoil-schedule
+DESCRIPTION:Преподаватель: Ахметов Ильнур Ваз
+ ирович\nТип: лаб.работа
+LOCATION:Кампус-715
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Программирование и прототипировани
+ е ИТ-решений (лаб.работа)
+DTSTART;TZID=Asia/Yekaterinburg:20261113T084500
+DTEND;TZID=Asia/Yekaterinburg:20261113T102000
+DTSTAMP:20261006T162706Z
+UID:4a0d16dc52fd2250d2d6bdb85b79aebe@rusoil-schedule
+DESCRIPTION:Преподаватель:   \nТип: лаб.работа
+LOCATION:Кампус-617\,1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Программирование и прототипировани
+ е ИТ-решений (лаб.работа)
+DTSTART;TZID=Asia/Yekaterinburg:20261113T103000
+DTEND;TZID=Asia/Yekaterinburg:20261113T120500
+DTSTAMP:20261006T162706Z
+UID:823e0385089e0a631f975bdc07479f0d@rusoil-schedule
+DESCRIPTION:Преподаватель: Ахметов Ильнур Ваз
+ ирович\nТип: лаб.работа
+LOCATION:Кампус-715
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Программирование и прототипировани
+ е ИТ-решений (лаб.работа)
+DTSTART;TZID=Asia/Yekaterinburg:20261113T103000
+DTEND;TZID=Asia/Yekaterinburg:20261113T120500
+DTSTAMP:20261006T162706Z
+UID:823e0385089e0a631f975bdc07479f0d@rusoil-schedule
+DESCRIPTION:Преподаватель:   \nТип: лаб.работа
+LOCATION:Кампус-617\,1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (утро)
+DTSTART;TZID=Asia/Yekaterinburg:20261113T064500
+DTEND;TZID=Asia/Yekaterinburg:20261113T084500
+DTSTAMP:20261006T162706Z
+UID:b6811bc785340eeadbeab99dcb383315@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (вечер)
+DTSTART;TZID=Asia/Yekaterinburg:20261113T120500
+DTEND;TZID=Asia/Yekaterinburg:20261113T010000
+DTSTAMP:20261006T162706Z
+UID:f7dcdd016ba5b980a677c7c55c47a0bb@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📚 Лекция: Основы баз данных
+DTSTART;TZID=Asia/Yekaterinburg:20261014T084500
+DTEND;TZID=Asia/Yekaterinburg:20261014T102000
+DTSTAMP:20261006T162706Z
+UID:79745c00b331e6bc2d0ddaf78568cd87@rusoil-schedule
+DESCRIPTION:Преподаватель: Захаров Андрей Вла
+ димирович\nТип: лекция
+LOCATION:-
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📚 Лекция: История России
+DTSTART;TZID=Asia/Yekaterinburg:20261014T103000
+DTEND;TZID=Asia/Yekaterinburg:20261014T120500
+DTSTAMP:20261006T162706Z
+UID:1ef72369247dbe0e2fd736784ec08624@rusoil-schedule
+DESCRIPTION:Преподаватель: Абросимов Никита С
+ ергеевич\nТип: лекция
+LOCATION:-
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📚 Лекция: Линейная алгебра и матема
+ тический анализ
+DTSTART;TZID=Asia/Yekaterinburg:20261014T121500
+DTEND;TZID=Asia/Yekaterinburg:20261014T135000
+DTSTAMP:20261006T162706Z
+UID:78d5f92d76dcf4b0fc723355efedb588@rusoil-schedule
+DESCRIPTION:Преподаватель:   \nТип: лекция
+LOCATION:-
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📚 Лекция: Основы баз данных
+DTSTART;TZID=Asia/Yekaterinburg:20261014T143500
+DTEND;TZID=Asia/Yekaterinburg:20261014T161000
+DTSTAMP:20261006T162706Z
+UID:8ea0f7894bbb98c9b489d606afe0e971@rusoil-schedule
+DESCRIPTION:Преподаватель: Захаров Андрей Вла
+ димирович\nТип: лекция
+LOCATION:-
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (утро)
+DTSTART;TZID=Asia/Yekaterinburg:20261014T064500
+DTEND;TZID=Asia/Yekaterinburg:20261014T084500
+DTSTAMP:20261006T162706Z
+UID:7e7d3a59e687cdfe37127b79660f9072@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (вечер)
+DTSTART;TZID=Asia/Yekaterinburg:20261014T161000
+DTEND;TZID=Asia/Yekaterinburg:20261014T010000
+DTSTAMP:20261006T162706Z
+UID:aecb4fce0eb1ebf446c75f1a5e4be191@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Основы баз данных (лаб.работа)
+DTSTART;TZID=Asia/Yekaterinburg:20261214T084500
+DTEND;TZID=Asia/Yekaterinburg:20261214T102000
+DTSTAMP:20261006T162706Z
+UID:fc80070b8d746acd424169a39c35a5ed@rusoil-schedule
+DESCRIPTION:Преподаватель: Захаров Андрей Вла
+ димирович\nТип: лаб.работа
+LOCATION:Кампус-715
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Основы баз данных (лаб.работа)
+DTSTART;TZID=Asia/Yekaterinburg:20261214T084500
+DTEND;TZID=Asia/Yekaterinburg:20261214T102000
+DTSTAMP:20261006T162706Z
+UID:fc80070b8d746acd424169a39c35a5ed@rusoil-schedule
+DESCRIPTION:Преподаватель:   \nТип: лаб.работа
+LOCATION:Кампус-617\,1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Основы баз данных (лаб.работа)
+DTSTART;TZID=Asia/Yekaterinburg:20261214T103000
+DTEND;TZID=Asia/Yekaterinburg:20261214T120500
+DTSTAMP:20261006T162706Z
+UID:ad9eb486723dec05ef65116546a9a8f2@rusoil-schedule
+DESCRIPTION:Преподаватель: Захаров Андрей Вла
+ димирович\nТип: лаб.работа
+LOCATION:Кампус-715
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Основы баз данных (лаб.работа)
+DTSTART;TZID=Asia/Yekaterinburg:20261214T103000
+DTEND;TZID=Asia/Yekaterinburg:20261214T120500
+DTSTAMP:20261006T162706Z
+UID:ad9eb486723dec05ef65116546a9a8f2@rusoil-schedule
+DESCRIPTION:Преподаватель:   \nТип: лаб.работа
+LOCATION:Кампус-617\,1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Английский язык (продвинутый уровен
+ ь) (практическое занятие)
+DTSTART;TZID=Asia/Yekaterinburg:20261214T143500
+DTEND;TZID=Asia/Yekaterinburg:20261214T161000
+DTSTAMP:20261006T162706Z
+UID:422403d686d8730ed29d6d2b35176a3d@rusoil-schedule
+DESCRIPTION:Преподаватель: Анохина Светлана З
+ агировна\nТип: практическое занятие
+LOCATION:-
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Английский язык (базовый уровень) (п
+ рактическое занятие)
+DTSTART;TZID=Asia/Yekaterinburg:20261214T143500
+DTEND;TZID=Asia/Yekaterinburg:20261214T161000
+DTSTAMP:20261006T162706Z
+UID:1708e29c2b709f183f8b325abc414623@rusoil-schedule
+DESCRIPTION:Преподаватель:   \nТип: практическо
+ е занятие
+LOCATION:-
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Линейная алгебра и математический а
+ нализ (лаб.работа)
+DTSTART;TZID=Asia/Yekaterinburg:20261214T162000
+DTEND;TZID=Asia/Yekaterinburg:20261214T175500
+DTSTAMP:20261006T162706Z
+UID:6bd0bcba998bd0795fe550bc730e31f6@rusoil-schedule
+DESCRIPTION:Преподаватель: Шарипов Артём Рази
+ левич\nТип: лаб.работа
+LOCATION:-
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (утро)
+DTSTART;TZID=Asia/Yekaterinburg:20261214T064500
+DTEND;TZID=Asia/Yekaterinburg:20261214T084500
+DTSTAMP:20261006T162706Z
+UID:c688cbe3c3b3c7862db49cbcc45146d4@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (блок)
+DTSTART;TZID=Asia/Yekaterinburg:20261214T120500
+DTEND;TZID=Asia/Yekaterinburg:20261214T140500
+DTSTAMP:20261006T162706Z
+UID:d7e34d0ee43e36afb3224a9bf655794b@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (вечер)
+DTSTART;TZID=Asia/Yekaterinburg:20261214T175500
+DTEND;TZID=Asia/Yekaterinburg:20261214T010000
+DTSTAMP:20261006T162706Z
+UID:8e839baf0b25156e4e413850d8e794dc@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: (прочее)
+DTSTART;TZID=Asia/Yekaterinburg:20260915T103000
+DTEND;TZID=Asia/Yekaterinburg:20260915T120500
+DTSTAMP:20261006T162706Z
+UID:a017d25896a29e74c333844be8cced32@rusoil-schedule
+DESCRIPTION:Преподаватель:   \nТип: прочее
+LOCATION:Кампус-628
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📚 Лекция: Основы баз данных
+DTSTART;TZID=Asia/Yekaterinburg:20260915T121500
+DTEND;TZID=Asia/Yekaterinburg:20260915T135000
+DTSTAMP:20261006T162706Z
+UID:416c6d3b7fa8eebaaf2f1cc6315085bb@rusoil-schedule
+DESCRIPTION:Преподаватель: Захаров Андрей Вла
+ димирович\nТип: лекция
+LOCATION:Кампус-628
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (утро)
+DTSTART;TZID=Asia/Yekaterinburg:20260915T083000
+DTEND;TZID=Asia/Yekaterinburg:20260915T103000
+DTSTAMP:20261006T162706Z
+UID:82364f9c0277888908a235296697baf0@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (вечер)
+DTSTART;TZID=Asia/Yekaterinburg:20260915T135000
+DTEND;TZID=Asia/Yekaterinburg:20260915T010000
+DTSTAMP:20261006T162706Z
+UID:881f94ba1fd95b7034f144c15c279843@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Модуль по физической культуре и спо
+ рту (оздоровительная гимнастика) (практи
+ ческое занятие)
+DTSTART;TZID=Asia/Yekaterinburg:20261015T084500
+DTEND;TZID=Asia/Yekaterinburg:20261015T102000
+DTSTAMP:20261006T162706Z
+UID:eeb00b76d42869621faaf80ce0e67a09@rusoil-schedule
+DESCRIPTION:Преподаватель: Морошенко Екатери
+ на Витальевна\nТип: практическое занятие
+LOCATION:УФК-1-3
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📚 Лекция: Программирование и прото
+ типирование ИТ-решений
+DTSTART;TZID=Asia/Yekaterinburg:20261015T103000
+DTEND;TZID=Asia/Yekaterinburg:20261015T120500
+DTSTAMP:20261006T162706Z
+UID:f8876c9c22d5281f90842d3c6d183a8e@rusoil-schedule
+DESCRIPTION:Преподаватель: Ахметов Ильнур Ваз
+ ирович\nТип: лекция
+LOCATION:1-326
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (утро)
+DTSTART;TZID=Asia/Yekaterinburg:20261015T064500
+DTEND;TZID=Asia/Yekaterinburg:20261015T084500
+DTSTAMP:20261006T162706Z
+UID:0493f8f90bd853871af8ec49eb5f8ce5@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (вечер)
+DTSTART;TZID=Asia/Yekaterinburg:20261015T120500
+DTEND;TZID=Asia/Yekaterinburg:20261015T010000
+DTSTAMP:20261006T162706Z
+UID:f2f27980891af20da719c6a0e50ab68b@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📚 Лекция: Основы российской госуда
+ рственности
+DTSTART;TZID=Asia/Yekaterinburg:20260916T162000
+DTEND;TZID=Asia/Yekaterinburg:20260916T175500
+DTSTAMP:20261006T162706Z
+UID:9b4aeea6b422f5e70c10277e152ee07b@rusoil-schedule
+DESCRIPTION:Преподаватель: Гиндуллин Наиль Фа
+ нильевич\nТип: лекция
+LOCATION:2-317
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (утро)
+DTSTART;TZID=Asia/Yekaterinburg:20260916T142000
+DTEND;TZID=Asia/Yekaterinburg:20260916T162000
+DTSTAMP:20261006T162706Z
+UID:aaba94fa7c055fb3166647c877c1f976@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (вечер)
+DTSTART;TZID=Asia/Yekaterinburg:20260916T175500
+DTEND;TZID=Asia/Yekaterinburg:20260916T010000
+DTSTAMP:20261006T162706Z
+UID:168f36d43bd00748c6c97c156d6b2ce2@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📚 Лекция: Линейная алгебра и матема
+ тический анализ
+DTSTART;TZID=Asia/Yekaterinburg:20261016T084500
+DTEND;TZID=Asia/Yekaterinburg:20261016T102000
+DTSTAMP:20261006T162706Z
+UID:83cb6fe264a1416aaf6a96ddc263c86a@rusoil-schedule
+DESCRIPTION:Преподаватель:   \nТип: лекция
+LOCATION:-
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📚 Лекция: Программирование и прото
+ типирование ИТ-решений
+DTSTART;TZID=Asia/Yekaterinburg:20261016T121500
+DTEND;TZID=Asia/Yekaterinburg:20261016T135000
+DTSTAMP:20261006T162706Z
+UID:c67c92fb8e63b5d774632794a842ed1f@rusoil-schedule
+DESCRIPTION:Преподаватель: Ахметов Ильнур Ваз
+ ирович\nТип: лекция
+LOCATION:-
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (утро)
+DTSTART;TZID=Asia/Yekaterinburg:20261016T064500
+DTEND;TZID=Asia/Yekaterinburg:20261016T084500
+DTSTAMP:20261006T162706Z
+UID:c6e514b673838eabe57597bd7576044b@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (вечер)
+DTSTART;TZID=Asia/Yekaterinburg:20261016T135000
+DTEND;TZID=Asia/Yekaterinburg:20261016T010000
+DTSTAMP:20261006T162706Z
+UID:550946f5aad604e04820d07a17ee3049@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Модуль по физической культуре и спо
+ рту (оздоровительная гимнастика) (практи
+ ческое занятие)
+DTSTART;TZID=Asia/Yekaterinburg:20261116T121500
+DTEND;TZID=Asia/Yekaterinburg:20261116T135000
+DTSTAMP:20261006T162706Z
+UID:8dc5bf38f969a3e8c4c9909502e7748a@rusoil-schedule
+DESCRIPTION:Преподаватель: Морошенко Екатери
+ на Витальевна\nТип: практическое занятие
+LOCATION:УФК-1-3
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Английский язык (продвинутый уровен
+ ь) (практическое занятие)
+DTSTART;TZID=Asia/Yekaterinburg:20261116T143500
+DTEND;TZID=Asia/Yekaterinburg:20261116T161000
+DTSTAMP:20261006T162706Z
+UID:614c8516439563d354b19a3e81b6fa0a@rusoil-schedule
+DESCRIPTION:Преподаватель: Анохина Светлана З
+ агировна\nТип: практическое занятие
+LOCATION:-
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Английский язык (базовый уровень) (п
+ рактическое занятие)
+DTSTART;TZID=Asia/Yekaterinburg:20261116T143500
+DTEND;TZID=Asia/Yekaterinburg:20261116T161000
+DTSTAMP:20261006T162706Z
+UID:c591072a973505d5ea48f45f9d30bf6a@rusoil-schedule
+DESCRIPTION:Преподаватель:   \nТип: практическо
+ е занятие
+LOCATION:-
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (утро)
+DTSTART;TZID=Asia/Yekaterinburg:20261116T101500
+DTEND;TZID=Asia/Yekaterinburg:20261116T121500
+DTSTAMP:20261006T162706Z
+UID:e09bf1ceb8268a38b6f699ce62a52891@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (вечер)
+DTSTART;TZID=Asia/Yekaterinburg:20261116T161000
+DTEND;TZID=Asia/Yekaterinburg:20261116T010000
+DTSTAMP:20261006T162706Z
+UID:ac3b61daaa604a780590bb234d9c7a14@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Основы баз данных (практическое зан
+ ятие)
+DTSTART;TZID=Asia/Yekaterinburg:20261216T103000
+DTEND;TZID=Asia/Yekaterinburg:20261216T120500
+DTSTAMP:20261006T162706Z
+UID:2f3585c9a9ed3a146064e33554ddeae2@rusoil-schedule
+DESCRIPTION:Преподаватель: Захаров Андрей Вла
+ димирович\nТип: практическое занятие
+LOCATION:Кампус-614
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Программирование и прототипировани
+ е ИТ-решений (лаб.работа)
+DTSTART;TZID=Asia/Yekaterinburg:20261216T121500
+DTEND;TZID=Asia/Yekaterinburg:20261216T135000
+DTSTAMP:20261006T162706Z
+UID:b0950a137fb5d2a9b9da3d74da19ba09@rusoil-schedule
+DESCRIPTION:Преподаватель: Ахметов Ильнур Ваз
+ ирович\nТип: лаб.работа
+LOCATION:Кампус-715
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Программирование и прототипировани
+ е ИТ-решений (лаб.работа)
+DTSTART;TZID=Asia/Yekaterinburg:20261216T121500
+DTEND;TZID=Asia/Yekaterinburg:20261216T135000
+DTSTAMP:20261006T162706Z
+UID:b0950a137fb5d2a9b9da3d74da19ba09@rusoil-schedule
+DESCRIPTION:Преподаватель:   \nТип: лаб.работа
+LOCATION:Кампус-617\,1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Программирование и прототипировани
+ е ИТ-решений (лаб.работа)
+DTSTART;TZID=Asia/Yekaterinburg:20261216T143500
+DTEND;TZID=Asia/Yekaterinburg:20261216T161000
+DTSTAMP:20261006T162706Z
+UID:7eb3897264e4ef23f40b5fcf67baa602@rusoil-schedule
+DESCRIPTION:Преподаватель: Ахметов Ильнур Ваз
+ ирович\nТип: лаб.работа
+LOCATION:Кампус-715
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Программирование и прототипировани
+ е ИТ-решений (лаб.работа)
+DTSTART;TZID=Asia/Yekaterinburg:20261216T143500
+DTEND;TZID=Asia/Yekaterinburg:20261216T161000
+DTSTAMP:20261006T162706Z
+UID:7eb3897264e4ef23f40b5fcf67baa602@rusoil-schedule
+DESCRIPTION:Преподаватель:   \nТип: лаб.работа
+LOCATION:Кампус-617\,1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Программирование и прототипировани
+ е ИТ-решений (практическое занятие)
+DTSTART;TZID=Asia/Yekaterinburg:20261216T162000
+DTEND;TZID=Asia/Yekaterinburg:20261216T175500
+DTSTAMP:20261006T162706Z
+UID:81e3746561055062b64de3b1a7120adc@rusoil-schedule
+DESCRIPTION:Преподаватель: Ахметов Ильнур Ваз
+ ирович\nТип: практическое занятие
+LOCATION:Кампус-617\,1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (утро)
+DTSTART;TZID=Asia/Yekaterinburg:20261216T083000
+DTEND;TZID=Asia/Yekaterinburg:20261216T103000
+DTSTAMP:20261006T162706Z
+UID:074fafeea539b7c979b2dfd0b280928d@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (вечер)
+DTSTART;TZID=Asia/Yekaterinburg:20261216T175500
+DTEND;TZID=Asia/Yekaterinburg:20261216T010000
+DTSTAMP:20261006T162706Z
+UID:09451ee918f6a6c549168e3fbbfce037@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📚 Лекция: Основы российской госуда
+ рственности
+DTSTART;TZID=Asia/Yekaterinburg:20260917T103000
+DTEND;TZID=Asia/Yekaterinburg:20260917T120500
+DTSTAMP:20261006T162706Z
+UID:30355e5c03d7f7fab88a73356eb867a2@rusoil-schedule
+DESCRIPTION:Преподаватель: Гиндуллин Наиль Фа
+ нильевич\nТип: лекция
+LOCATION:2-216
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (утро)
+DTSTART;TZID=Asia/Yekaterinburg:20260917T083000
+DTEND;TZID=Asia/Yekaterinburg:20260917T103000
+DTSTAMP:20261006T162706Z
+UID:f3601a14e0a67f185a317af896509c8c@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (вечер)
+DTSTART;TZID=Asia/Yekaterinburg:20260917T120500
+DTEND;TZID=Asia/Yekaterinburg:20260917T010000
+DTSTAMP:20261006T162706Z
+UID:5443c1f852611d9ef16fc5fb3f4efcbd@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📚 Лекция: Программирование и прото
+ типирование ИТ-решений
+DTSTART;TZID=Asia/Yekaterinburg:20261117T103000
+DTEND;TZID=Asia/Yekaterinburg:20261117T120500
+DTSTAMP:20261006T162706Z
+UID:2bfdc89e79f13d7fc8a9c77c46888cce@rusoil-schedule
+DESCRIPTION:Преподаватель: Ахметов Ильнур Ваз
+ ирович\nТип: лекция
+LOCATION:-
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📚 Лекция: Линейная алгебра и матема
+ тический анализ
+DTSTART;TZID=Asia/Yekaterinburg:20261117T121500
+DTEND;TZID=Asia/Yekaterinburg:20261117T135000
+DTSTAMP:20261006T162706Z
+UID:42f429a65c87c79a0fcec68341dc15fe@rusoil-schedule
+DESCRIPTION:Преподаватель:   \nТип: лекция
+LOCATION:-
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Основы баз данных (лаб.работа)
+DTSTART;TZID=Asia/Yekaterinburg:20261117T162000
+DTEND;TZID=Asia/Yekaterinburg:20261117T175500
+DTSTAMP:20261006T162706Z
+UID:9db1c3ae41bbac364b10ee4b909c62f3@rusoil-schedule
+DESCRIPTION:Преподаватель:   \nТип: лаб.работа
+LOCATION:Кампус-617\,1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Основы баз данных (лаб.работа)
+DTSTART;TZID=Asia/Yekaterinburg:20261117T162000
+DTEND;TZID=Asia/Yekaterinburg:20261117T175500
+DTSTAMP:20261006T162706Z
+UID:9db1c3ae41bbac364b10ee4b909c62f3@rusoil-schedule
+DESCRIPTION:Преподаватель: Захаров Андрей Вла
+ димирович\nТип: лаб.работа
+LOCATION:Кампус-715
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Основы баз данных (лаб.работа)
+DTSTART;TZID=Asia/Yekaterinburg:20261117T180500
+DTEND;TZID=Asia/Yekaterinburg:20261117T194000
+DTSTAMP:20261006T162706Z
+UID:c9764e802943eecfdc018ddd979f4e0d@rusoil-schedule
+DESCRIPTION:Преподаватель: Захаров Андрей Вла
+ димирович\nТип: лаб.работа
+LOCATION:Кампус-715
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Основы баз данных (лаб.работа)
+DTSTART;TZID=Asia/Yekaterinburg:20261117T180500
+DTEND;TZID=Asia/Yekaterinburg:20261117T194000
+DTSTAMP:20261006T162706Z
+UID:c9764e802943eecfdc018ddd979f4e0d@rusoil-schedule
+DESCRIPTION:Преподаватель:   \nТип: лаб.работа
+LOCATION:Кампус-617\,1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (утро)
+DTSTART;TZID=Asia/Yekaterinburg:20261117T083000
+DTEND;TZID=Asia/Yekaterinburg:20261117T103000
+DTSTAMP:20261006T162706Z
+UID:1cfbb7695fdbb6be185189ca5ee6a53b@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (блок)
+DTSTART;TZID=Asia/Yekaterinburg:20261117T135000
+DTEND;TZID=Asia/Yekaterinburg:20261117T155000
+DTSTAMP:20261006T162706Z
+UID:fede893f4c0f6bc1e893347487bf0279@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (вечер)
+DTSTART;TZID=Asia/Yekaterinburg:20261117T194000
+DTEND;TZID=Asia/Yekaterinburg:20261117T010000
+DTSTAMP:20261006T162706Z
+UID:8b69906f4ac62da95cc4d41206b9853d@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📚 Лекция: История России
+DTSTART;TZID=Asia/Yekaterinburg:20260918T162000
+DTEND;TZID=Asia/Yekaterinburg:20260918T175500
+DTSTAMP:20261006T162706Z
+UID:6dfeefaab197151c46bee05e50f41f3f@rusoil-schedule
+DESCRIPTION:Преподаватель: Абросимов Никита С
+ ергеевич\nТип: лекция
+LOCATION:3-409
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📚 Лекция: Основы российской госуда
+ рственности
+DTSTART;TZID=Asia/Yekaterinburg:20260918T180500
+DTEND;TZID=Asia/Yekaterinburg:20260918T194000
+DTSTAMP:20261006T162706Z
+UID:faaddaf25e19b00e3c241e3081a811b3@rusoil-schedule
+DESCRIPTION:Преподаватель: Гиндуллин Наиль Фа
+ нильевич\nТип: лекция
+LOCATION:3-412
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (утро)
+DTSTART;TZID=Asia/Yekaterinburg:20260918T142000
+DTEND;TZID=Asia/Yekaterinburg:20260918T162000
+DTSTAMP:20261006T162706Z
+UID:392ab327b28ed899341897d7686abfe3@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (вечер)
+DTSTART;TZID=Asia/Yekaterinburg:20260918T194000
+DTEND;TZID=Asia/Yekaterinburg:20260918T010000
+DTSTAMP:20261006T162706Z
+UID:7f56e7f34895c1bc872dbe50ee8bd867@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📚 Лекция: Основы баз данных
+DTSTART;TZID=Asia/Yekaterinburg:20261118T084500
+DTEND;TZID=Asia/Yekaterinburg:20261118T102000
+DTSTAMP:20261006T162706Z
+UID:8ef3cf76e27db049693b2838dbce9a5c@rusoil-schedule
+DESCRIPTION:Преподаватель: Захаров Андрей Вла
+ димирович\nТип: лекция
+LOCATION:-
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📚 Лекция: Линейная алгебра и матема
+ тический анализ
+DTSTART;TZID=Asia/Yekaterinburg:20261118T103000
+DTEND;TZID=Asia/Yekaterinburg:20261118T120500
+DTSTAMP:20261006T162706Z
+UID:571d148675bfb6bcda4868b694e6879f@rusoil-schedule
+DESCRIPTION:Преподаватель:   \nТип: лекция
+LOCATION:-
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (утро)
+DTSTART;TZID=Asia/Yekaterinburg:20261118T064500
+DTEND;TZID=Asia/Yekaterinburg:20261118T084500
+DTSTAMP:20261006T162706Z
+UID:2436286c8dde7ba444aeaf28edfb8dc6@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (вечер)
+DTSTART;TZID=Asia/Yekaterinburg:20261118T120500
+DTEND;TZID=Asia/Yekaterinburg:20261118T010000
+DTSTAMP:20261006T162706Z
+UID:f0185da73af3fd50ac4747adbcbf3122@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Основы баз данных (лаб.работа)
+DTSTART;TZID=Asia/Yekaterinburg:20261218T084500
+DTEND;TZID=Asia/Yekaterinburg:20261218T102000
+DTSTAMP:20261006T162706Z
+UID:6627125876aecacd71ac2434ada62277@rusoil-schedule
+DESCRIPTION:Преподаватель: Захаров Андрей Вла
+ димирович\nТип: лаб.работа
+LOCATION:Кампус-715
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Основы баз данных (лаб.работа)
+DTSTART;TZID=Asia/Yekaterinburg:20261218T084500
+DTEND;TZID=Asia/Yekaterinburg:20261218T102000
+DTSTAMP:20261006T162706Z
+UID:6627125876aecacd71ac2434ada62277@rusoil-schedule
+DESCRIPTION:Преподаватель:   \nТип: лаб.работа
+LOCATION:Кампус-617\,1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Основы баз данных (лаб.работа)
+DTSTART;TZID=Asia/Yekaterinburg:20261218T103000
+DTEND;TZID=Asia/Yekaterinburg:20261218T120500
+DTSTAMP:20261006T162706Z
+UID:615a9987ec8475c66c89a443c004ba30@rusoil-schedule
+DESCRIPTION:Преподаватель:   \nТип: лаб.работа
+LOCATION:Кампус-617\,1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Основы баз данных (лаб.работа)
+DTSTART;TZID=Asia/Yekaterinburg:20261218T103000
+DTEND;TZID=Asia/Yekaterinburg:20261218T120500
+DTSTAMP:20261006T162706Z
+UID:615a9987ec8475c66c89a443c004ba30@rusoil-schedule
+DESCRIPTION:Преподаватель: Захаров Андрей Вла
+ димирович\nТип: лаб.работа
+LOCATION:Кампус-715
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (утро)
+DTSTART;TZID=Asia/Yekaterinburg:20261218T064500
+DTEND;TZID=Asia/Yekaterinburg:20261218T084500
+DTSTAMP:20261006T162706Z
+UID:e6ea5724af5e1d100d32e896cb0503fb@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (вечер)
+DTSTART;TZID=Asia/Yekaterinburg:20261218T120500
+DTEND;TZID=Asia/Yekaterinburg:20261218T010000
+DTSTAMP:20261006T162706Z
+UID:27eabc3412b742c10399cde946cfdaf5@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📚 Лекция: История России
+DTSTART;TZID=Asia/Yekaterinburg:20260919T103000
+DTEND;TZID=Asia/Yekaterinburg:20260919T120500
+DTSTAMP:20261006T162706Z
+UID:71b3a82b74cdfa4c3b8afe59e075d0c4@rusoil-schedule
+DESCRIPTION:Преподаватель: Абросимов Никита С
+ ергеевич\nТип: лекция
+LOCATION:2-317
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📚 Лекция: История России
+DTSTART;TZID=Asia/Yekaterinburg:20260919T121500
+DTEND;TZID=Asia/Yekaterinburg:20260919T135000
+DTSTAMP:20261006T162706Z
+UID:656e341f5e4f6550be833fdb2e0cb657@rusoil-schedule
+DESCRIPTION:Преподаватель: Абросимов Никита С
+ ергеевич\nТип: лекция
+LOCATION:2-317
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (утро)
+DTSTART;TZID=Asia/Yekaterinburg:20260919T083000
+DTEND;TZID=Asia/Yekaterinburg:20260919T103000
+DTSTAMP:20261006T162706Z
+UID:42b4495efa2a7b99b6da4393c923282b@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (вечер)
+DTSTART;TZID=Asia/Yekaterinburg:20260919T135000
+DTEND;TZID=Asia/Yekaterinburg:20260919T010000
+DTSTAMP:20261006T162706Z
+UID:2531a433ac4c1d3174ebbc91f83394c0@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Модуль по физической культуре и спо
+ рту (оздоровительная гимнастика) (практи
+ ческое занятие)
+DTSTART;TZID=Asia/Yekaterinburg:20261019T121500
+DTEND;TZID=Asia/Yekaterinburg:20261019T135000
+DTSTAMP:20261006T162706Z
+UID:4627b7b4cfc8e21a2f60d65103a41e55@rusoil-schedule
+DESCRIPTION:Преподаватель: Морошенко Екатери
+ на Витальевна\nТип: практическое занятие
+LOCATION:УФК-1-3
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Английский язык (базовый уровень) (п
+ рактическое занятие)
+DTSTART;TZID=Asia/Yekaterinburg:20261019T143500
+DTEND;TZID=Asia/Yekaterinburg:20261019T161000
+DTSTAMP:20261006T162706Z
+UID:edb32ec7eba04e63271aba11d0f98aec@rusoil-schedule
+DESCRIPTION:Преподаватель:   \nТип: практическо
+ е занятие
+LOCATION:-
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Английский язык (продвинутый уровен
+ ь) (практическое занятие)
+DTSTART;TZID=Asia/Yekaterinburg:20261019T143500
+DTEND;TZID=Asia/Yekaterinburg:20261019T161000
+DTSTAMP:20261006T162706Z
+UID:37da0eaf4d91eaca1efd29fb033caee1@rusoil-schedule
+DESCRIPTION:Преподаватель: Анохина Светлана З
+ агировна\nТип: практическое занятие
+LOCATION:-
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (утро)
+DTSTART;TZID=Asia/Yekaterinburg:20261019T101500
+DTEND;TZID=Asia/Yekaterinburg:20261019T121500
+DTSTAMP:20261006T162706Z
+UID:baf330ce71716d3aea1e85bc3a24d98d@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (вечер)
+DTSTART;TZID=Asia/Yekaterinburg:20261019T161000
+DTEND;TZID=Asia/Yekaterinburg:20261019T010000
+DTSTAMP:20261006T162706Z
+UID:e73435b6b035e5c24950ea669719e2d8@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Модуль по физической культуре и спо
+ рту (оздоровительная гимнастика) (практи
+ ческое занятие)
+DTSTART;TZID=Asia/Yekaterinburg:20261119T084500
+DTEND;TZID=Asia/Yekaterinburg:20261119T102000
+DTSTAMP:20261006T162706Z
+UID:5297ba31389780be37d5a9df9c233379@rusoil-schedule
+DESCRIPTION:Преподаватель: Морошенко Екатери
+ на Витальевна\nТип: практическое занятие
+LOCATION:УФК-1-3
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (утро)
+DTSTART;TZID=Asia/Yekaterinburg:20261119T064500
+DTEND;TZID=Asia/Yekaterinburg:20261119T084500
+DTSTAMP:20261006T162706Z
+UID:efc9c13f9933b71438fa87fe6d7cc800@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (вечер)
+DTSTART;TZID=Asia/Yekaterinburg:20261119T102000
+DTEND;TZID=Asia/Yekaterinburg:20261119T010000
+DTSTAMP:20261006T162706Z
+UID:e3f71711ec92eac3350299cb0504a7df@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📚 Лекция: Линейная алгебра и матема
+ тический анализ
+DTSTART;TZID=Asia/Yekaterinburg:20261020T121500
+DTEND;TZID=Asia/Yekaterinburg:20261020T135000
+DTSTAMP:20261006T162706Z
+UID:5a1424f4fd347dd1dd4a19aa2c2119c9@rusoil-schedule
+DESCRIPTION:Преподаватель:   \nТип: лекция
+LOCATION:-
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📚 Лекция: Программирование и прото
+ типирование ИТ-решений
+DTSTART;TZID=Asia/Yekaterinburg:20261020T143500
+DTEND;TZID=Asia/Yekaterinburg:20261020T161000
+DTSTAMP:20261006T162706Z
+UID:fb0a87364640f47f25a244080f36965c@rusoil-schedule
+DESCRIPTION:Преподаватель: Ахметов Ильнур Ваз
+ ирович\nТип: лекция
+LOCATION:-
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📚 Лекция: История России
+DTSTART;TZID=Asia/Yekaterinburg:20261020T195000
+DTEND;TZID=Asia/Yekaterinburg:20261020T211500
+DTSTAMP:20261006T162706Z
+UID:2a298715792ace812f0d09c96a3553d3@rusoil-schedule
+DESCRIPTION:Преподаватель: Абросимов Никита С
+ ергеевич\nТип: лекция
+LOCATION:-on-line
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (утро)
+DTSTART;TZID=Asia/Yekaterinburg:20261020T101500
+DTEND;TZID=Asia/Yekaterinburg:20261020T121500
+DTSTAMP:20261006T162706Z
+UID:cf2560b8224e1af536e0c6b5effe5509@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (блок)
+DTSTART;TZID=Asia/Yekaterinburg:20261020T161000
+DTEND;TZID=Asia/Yekaterinburg:20261020T181000
+DTSTAMP:20261006T162706Z
+UID:816bf29e8ebce6fffc888327abc08230@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (вечер)
+DTSTART;TZID=Asia/Yekaterinburg:20261020T211500
+DTEND;TZID=Asia/Yekaterinburg:20261020T010000
+DTSTAMP:20261006T162706Z
+UID:0c92cdddfd8ce111bcef32afac737a40@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Основы баз данных (практическое зан
+ ятие)
+DTSTART;TZID=Asia/Yekaterinburg:20261120T084500
+DTEND;TZID=Asia/Yekaterinburg:20261120T102000
+DTSTAMP:20261006T162706Z
+UID:5cb93359b809b4a00c2bf07c40a300d7@rusoil-schedule
+DESCRIPTION:Преподаватель: Захаров Андрей Вла
+ димирович\nТип: практическое занятие
+LOCATION:Кампус-614
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Программирование и прототипировани
+ е ИТ-решений (лаб.работа)
+DTSTART;TZID=Asia/Yekaterinburg:20261120T103000
+DTEND;TZID=Asia/Yekaterinburg:20261120T120500
+DTSTAMP:20261006T162706Z
+UID:2dc14775de0adb14c5c139027dc3e528@rusoil-schedule
+DESCRIPTION:Преподаватель:   \nТип: лаб.работа
+LOCATION:Кампус-617\,1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Программирование и прототипировани
+ е ИТ-решений (лаб.работа)
+DTSTART;TZID=Asia/Yekaterinburg:20261120T103000
+DTEND;TZID=Asia/Yekaterinburg:20261120T120500
+DTSTAMP:20261006T162706Z
+UID:2dc14775de0adb14c5c139027dc3e528@rusoil-schedule
+DESCRIPTION:Преподаватель: Ахметов Ильнур Ваз
+ ирович\nТип: лаб.работа
+LOCATION:Кампус-715
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Программирование и прототипировани
+ е ИТ-решений (лаб.работа)
+DTSTART;TZID=Asia/Yekaterinburg:20261120T121500
+DTEND;TZID=Asia/Yekaterinburg:20261120T135000
+DTSTAMP:20261006T162706Z
+UID:dd2b305b8d6725034218f85dcde20ad7@rusoil-schedule
+DESCRIPTION:Преподаватель:   \nТип: лаб.работа
+LOCATION:Кампус-617\,1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Программирование и прототипировани
+ е ИТ-решений (лаб.работа)
+DTSTART;TZID=Asia/Yekaterinburg:20261120T121500
+DTEND;TZID=Asia/Yekaterinburg:20261120T135000
+DTSTAMP:20261006T162706Z
+UID:dd2b305b8d6725034218f85dcde20ad7@rusoil-schedule
+DESCRIPTION:Преподаватель: Ахметов Ильнур Ваз
+ ирович\nТип: лаб.работа
+LOCATION:Кампус-715
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (утро)
+DTSTART;TZID=Asia/Yekaterinburg:20261120T064500
+DTEND;TZID=Asia/Yekaterinburg:20261120T084500
+DTSTAMP:20261006T162706Z
+UID:3ddda4f5f38ad06c954f410444fb4862@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (вечер)
+DTSTART;TZID=Asia/Yekaterinburg:20261120T135000
+DTEND;TZID=Asia/Yekaterinburg:20261120T010000
+DTSTAMP:20261006T162706Z
+UID:4e0256b8d7436b1e9ca5e8053c78b08c@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Модуль по физической культуре и спо
+ рту (оздоровительная гимнастика) (практи
+ ческое занятие)
+DTSTART;TZID=Asia/Yekaterinburg:20260921T121500
+DTEND;TZID=Asia/Yekaterinburg:20260921T135000
+DTSTAMP:20261006T162706Z
+UID:0ca6c34bc0c7b4921c168292020ff86d@rusoil-schedule
+DESCRIPTION:Преподаватель: Морошенко Екатери
+ на Витальевна\nТип: практическое занятие
+LOCATION:УФК-1-3
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Английский язык (базовый уровень) (п
+ рактическое занятие)
+DTSTART;TZID=Asia/Yekaterinburg:20260921T143500
+DTEND;TZID=Asia/Yekaterinburg:20260921T161000
+DTSTAMP:20261006T162706Z
+UID:56881eccbf44e81dbef1534960532da3@rusoil-schedule
+DESCRIPTION:Преподаватель:   \nТип: практическо
+ е занятие
+LOCATION:4-416
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (утро)
+DTSTART;TZID=Asia/Yekaterinburg:20260921T101500
+DTEND;TZID=Asia/Yekaterinburg:20260921T121500
+DTSTAMP:20261006T162706Z
+UID:4f4fcd7537b1fadc337a80de885a979d@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (вечер)
+DTSTART;TZID=Asia/Yekaterinburg:20260921T161000
+DTEND;TZID=Asia/Yekaterinburg:20260921T010000
+DTSTAMP:20261006T162706Z
+UID:9d99fa70de97ecd7b1bb03e8cb3f7760@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Программирование и прототипировани
+ е ИТ-решений (практическое занятие)
+DTSTART;TZID=Asia/Yekaterinburg:20261121T121500
+DTEND;TZID=Asia/Yekaterinburg:20261121T135000
+DTSTAMP:20261006T162706Z
+UID:e9c855bd1a3f52e87b81c8c78e1c1f15@rusoil-schedule
+DESCRIPTION:Преподаватель: Ахметов Ильнур Ваз
+ ирович\nТип: практическое занятие
+LOCATION:Кампус-614
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (утро)
+DTSTART;TZID=Asia/Yekaterinburg:20261121T101500
+DTEND;TZID=Asia/Yekaterinburg:20261121T121500
+DTSTAMP:20261006T162706Z
+UID:7469c343434476122704f0d7229f9afa@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (вечер)
+DTSTART;TZID=Asia/Yekaterinburg:20261121T135000
+DTEND;TZID=Asia/Yekaterinburg:20261121T010000
+DTSTAMP:20261006T162706Z
+UID:04d9ce2ab03ca691ce346dcda6924403@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📚 Лекция: Линейная алгебра и матема
+ тический анализ
+DTSTART;TZID=Asia/Yekaterinburg:20260922T143500
+DTEND;TZID=Asia/Yekaterinburg:20260922T161000
+DTSTAMP:20261006T162706Z
+UID:10284c739eae0e6ebccb992fc01ebe4f@rusoil-schedule
+DESCRIPTION:Преподаватель:   \nТип: лекция
+LOCATION:2-317
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📚 Лекция: Линейная алгебра и матема
+ тический анализ
+DTSTART;TZID=Asia/Yekaterinburg:20260922T162000
+DTEND;TZID=Asia/Yekaterinburg:20260922T175500
+DTSTAMP:20261006T162706Z
+UID:eb9be18988e5ee38577278ca2577ca37@rusoil-schedule
+DESCRIPTION:Преподаватель:   \nТип: лекция
+LOCATION:2-317
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📚 Лекция: Основы российской госуда
+ рственности
+DTSTART;TZID=Asia/Yekaterinburg:20260922T180500
+DTEND;TZID=Asia/Yekaterinburg:20260922T194000
+DTSTAMP:20261006T162706Z
+UID:c1105cf6de76f6e9e5f1cb5efcfd8c1b@rusoil-schedule
+DESCRIPTION:Преподаватель: Гиндуллин Наиль Фа
+ нильевич\nТип: лекция
+LOCATION:2-317
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (утро)
+DTSTART;TZID=Asia/Yekaterinburg:20260922T123500
+DTEND;TZID=Asia/Yekaterinburg:20260922T143500
+DTSTAMP:20261006T162706Z
+UID:10a77e16c9acbb68e829f543fe179c74@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (вечер)
+DTSTART;TZID=Asia/Yekaterinburg:20260922T194000
+DTEND;TZID=Asia/Yekaterinburg:20260922T010000
+DTSTAMP:20261006T162706Z
+UID:5f64f603ef49ec1d0172ebe0502b9514@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Модуль по физической культуре и спо
+ рту (оздоровительная гимнастика) (практи
+ ческое занятие)
+DTSTART;TZID=Asia/Yekaterinburg:20261022T084500
+DTEND;TZID=Asia/Yekaterinburg:20261022T102000
+DTSTAMP:20261006T162706Z
+UID:4276c84b1e1937ea1aa6014cd3fc71eb@rusoil-schedule
+DESCRIPTION:Преподаватель: Морошенко Екатери
+ на Витальевна\nТип: практическое занятие
+LOCATION:УФК-1-3
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📚 Лекция: Программирование и прото
+ типирование ИТ-решений
+DTSTART;TZID=Asia/Yekaterinburg:20261022T103000
+DTEND;TZID=Asia/Yekaterinburg:20261022T120500
+DTSTAMP:20261006T162706Z
+UID:524a46e873b2c58e5ce5c9ae35b78f6a@rusoil-schedule
+DESCRIPTION:Преподаватель: Ахметов Ильнур Ваз
+ ирович\nТип: лекция
+LOCATION:-
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📚 Лекция: Основы российской госуда
+ рственности
+DTSTART;TZID=Asia/Yekaterinburg:20261022T121500
+DTEND;TZID=Asia/Yekaterinburg:20261022T135000
+DTSTAMP:20261006T162706Z
+UID:65fc14e06508cb07542051ba7cd5d58e@rusoil-schedule
+DESCRIPTION:Преподаватель: Гиндуллин Наиль Фа
+ нильевич\nТип: лекция
+LOCATION:3-412
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📚 Лекция: Основы баз данных
+DTSTART;TZID=Asia/Yekaterinburg:20261022T143500
+DTEND;TZID=Asia/Yekaterinburg:20261022T161000
+DTSTAMP:20261006T162706Z
+UID:e7a2d57e5899fb99077f53e644235ef2@rusoil-schedule
+DESCRIPTION:Преподаватель: Захаров Андрей Вла
+ димирович\nТип: лекция
+LOCATION:-
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (утро)
+DTSTART;TZID=Asia/Yekaterinburg:20261022T064500
+DTEND;TZID=Asia/Yekaterinburg:20261022T084500
+DTSTAMP:20261006T162706Z
+UID:807986d65ddfb335bfc654d6fe49cd31@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (вечер)
+DTSTART;TZID=Asia/Yekaterinburg:20261022T161000
+DTEND;TZID=Asia/Yekaterinburg:20261022T010000
+DTSTAMP:20261006T162706Z
+UID:0f6cbf22c4519827ddc90ff0915c59a9@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📚 Лекция: История России
+DTSTART;TZID=Asia/Yekaterinburg:20260923T084500
+DTEND;TZID=Asia/Yekaterinburg:20260923T102000
+DTSTAMP:20261006T162706Z
+UID:a3b66e9656b66e012f9ed6865777f441@rusoil-schedule
+DESCRIPTION:Преподаватель: Абросимов Никита С
+ ергеевич\nТип: лекция
+LOCATION:1-326
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (утро)
+DTSTART;TZID=Asia/Yekaterinburg:20260923T064500
+DTEND;TZID=Asia/Yekaterinburg:20260923T084500
+DTSTAMP:20261006T162706Z
+UID:517d1f10456c68548227e09a47667189@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (вечер)
+DTSTART;TZID=Asia/Yekaterinburg:20260923T102000
+DTEND;TZID=Asia/Yekaterinburg:20260923T010000
+DTSTAMP:20261006T162706Z
+UID:9a4ff7e60f640779c4d9496c2563b030@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Программирование и прототипировани
+ е ИТ-решений (лаб.работа)
+DTSTART;TZID=Asia/Yekaterinburg:20261023T084500
+DTEND;TZID=Asia/Yekaterinburg:20261023T102000
+DTSTAMP:20261006T162706Z
+UID:07a08cf96459c2346cd15578051b1ad8@rusoil-schedule
+DESCRIPTION:Преподаватель: Ахметов Ильнур Ваз
+ ирович\nТип: лаб.работа
+LOCATION:Кампус-715
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Программирование и прототипировани
+ е ИТ-решений (лаб.работа)
+DTSTART;TZID=Asia/Yekaterinburg:20261023T084500
+DTEND;TZID=Asia/Yekaterinburg:20261023T102000
+DTSTAMP:20261006T162706Z
+UID:07a08cf96459c2346cd15578051b1ad8@rusoil-schedule
+DESCRIPTION:Преподаватель:   \nТип: лаб.работа
+LOCATION:Кампус-617\,1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Программирование и прототипировани
+ е ИТ-решений (лаб.работа)
+DTSTART;TZID=Asia/Yekaterinburg:20261023T103000
+DTEND;TZID=Asia/Yekaterinburg:20261023T120500
+DTSTAMP:20261006T162706Z
+UID:c7f5cbd2cc835da2b0739d89e79bfd3d@rusoil-schedule
+DESCRIPTION:Преподаватель:   \nТип: лаб.работа
+LOCATION:Кампус-617\,1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Программирование и прототипировани
+ е ИТ-решений (лаб.работа)
+DTSTART;TZID=Asia/Yekaterinburg:20261023T103000
+DTEND;TZID=Asia/Yekaterinburg:20261023T120500
+DTSTAMP:20261006T162706Z
+UID:c7f5cbd2cc835da2b0739d89e79bfd3d@rusoil-schedule
+DESCRIPTION:Преподаватель: Ахметов Ильнур Ваз
+ ирович\nТип: лаб.работа
+LOCATION:Кампус-715
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Основы баз данных (лаб.работа)
+DTSTART;TZID=Asia/Yekaterinburg:20261023T143500
+DTEND;TZID=Asia/Yekaterinburg:20261023T161000
+DTSTAMP:20261006T162706Z
+UID:75aa90c9fb6ebb8ac746517508f49ea5@rusoil-schedule
+DESCRIPTION:Преподаватель: Захаров Андрей Вла
+ димирович\nТип: лаб.работа
+LOCATION:Кампус-715
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Основы баз данных (лаб.работа)
+DTSTART;TZID=Asia/Yekaterinburg:20261023T143500
+DTEND;TZID=Asia/Yekaterinburg:20261023T161000
+DTSTAMP:20261006T162706Z
+UID:75aa90c9fb6ebb8ac746517508f49ea5@rusoil-schedule
+DESCRIPTION:Преподаватель:   \nТип: лаб.работа
+LOCATION:Кампус-617\,1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Основы баз данных (лаб.работа)
+DTSTART;TZID=Asia/Yekaterinburg:20261023T162000
+DTEND;TZID=Asia/Yekaterinburg:20261023T175500
+DTSTAMP:20261006T162706Z
+UID:1b83aebe079179e888d1ef089ba8b487@rusoil-schedule
+DESCRIPTION:Преподаватель:   \nТип: лаб.работа
+LOCATION:Кампус-617\,1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Основы баз данных (лаб.работа)
+DTSTART;TZID=Asia/Yekaterinburg:20261023T162000
+DTEND;TZID=Asia/Yekaterinburg:20261023T175500
+DTSTAMP:20261006T162706Z
+UID:1b83aebe079179e888d1ef089ba8b487@rusoil-schedule
+DESCRIPTION:Преподаватель: Захаров Андрей Вла
+ димирович\nТип: лаб.работа
+LOCATION:Кампус-715
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (утро)
+DTSTART;TZID=Asia/Yekaterinburg:20261023T064500
+DTEND;TZID=Asia/Yekaterinburg:20261023T084500
+DTSTAMP:20261006T162706Z
+UID:9b6507500a09c7b414581c885e803be6@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (блок)
+DTSTART;TZID=Asia/Yekaterinburg:20261023T120500
+DTEND;TZID=Asia/Yekaterinburg:20261023T140500
+DTSTAMP:20261006T162706Z
+UID:a6524e770d194cf2ed5bae6474cba255@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (вечер)
+DTSTART;TZID=Asia/Yekaterinburg:20261023T175500
+DTEND;TZID=Asia/Yekaterinburg:20261023T010000
+DTSTAMP:20261006T162706Z
+UID:2ba41d74dcbf5773d7ebc30bf79ffdaa@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Модуль по физической культуре и спо
+ рту (оздоровительная гимнастика) (практи
+ ческое занятие)
+DTSTART;TZID=Asia/Yekaterinburg:20261123T121500
+DTEND;TZID=Asia/Yekaterinburg:20261123T135000
+DTSTAMP:20261006T162706Z
+UID:c40912bc814b9deac2e18ad791ca50ff@rusoil-schedule
+DESCRIPTION:Преподаватель: Морошенко Екатери
+ на Витальевна\nТип: практическое занятие
+LOCATION:УФК-1-3
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Английский язык (продвинутый уровен
+ ь) (практическое занятие)
+DTSTART;TZID=Asia/Yekaterinburg:20261123T143500
+DTEND;TZID=Asia/Yekaterinburg:20261123T161000
+DTSTAMP:20261006T162706Z
+UID:ac1fd7f5a6b26d7e75b904f6e27d2005@rusoil-schedule
+DESCRIPTION:Преподаватель: Анохина Светлана З
+ агировна\nТип: практическое занятие
+LOCATION:-
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Английский язык (базовый уровень) (п
+ рактическое занятие)
+DTSTART;TZID=Asia/Yekaterinburg:20261123T143500
+DTEND;TZID=Asia/Yekaterinburg:20261123T161000
+DTSTAMP:20261006T162706Z
+UID:fc357ac6c460fb779be34631914f7d1b@rusoil-schedule
+DESCRIPTION:Преподаватель:   \nТип: практическо
+ е занятие
+LOCATION:-
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (утро)
+DTSTART;TZID=Asia/Yekaterinburg:20261123T101500
+DTEND;TZID=Asia/Yekaterinburg:20261123T121500
+DTSTAMP:20261006T162706Z
+UID:111bb001f5e6593bf09a33954f40aa1f@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (вечер)
+DTSTART;TZID=Asia/Yekaterinburg:20261123T161000
+DTEND;TZID=Asia/Yekaterinburg:20261123T010000
+DTSTAMP:20261006T162706Z
+UID:3abfa251d71da58d3417663407a510f4@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Модуль по физической культуре и спо
+ рту (оздоровительная гимнастика) (практи
+ ческое занятие)
+DTSTART;TZID=Asia/Yekaterinburg:20260924T084500
+DTEND;TZID=Asia/Yekaterinburg:20260924T102000
+DTSTAMP:20261006T162706Z
+UID:7a3e0bc8feaacaec45ec700138277581@rusoil-schedule
+DESCRIPTION:Преподаватель: Морошенко Екатери
+ на Витальевна\nТип: практическое занятие
+LOCATION:УФК-1-3
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📚 Лекция: Основы российской госуда
+ рственности
+DTSTART;TZID=Asia/Yekaterinburg:20260924T103000
+DTEND;TZID=Asia/Yekaterinburg:20260924T120500
+DTSTAMP:20261006T162706Z
+UID:37181a606dca31063b265368f71bc08d@rusoil-schedule
+DESCRIPTION:Преподаватель: Гиндуллин Наиль Фа
+ нильевич\nТип: лекция
+LOCATION:1-360
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📚 Лекция: Основы баз данных
+DTSTART;TZID=Asia/Yekaterinburg:20260924T121500
+DTEND;TZID=Asia/Yekaterinburg:20260924T135000
+DTSTAMP:20261006T162706Z
+UID:b23c9948a75b542c7573e28f92fe9c20@rusoil-schedule
+DESCRIPTION:Преподаватель: Захаров Андрей Вла
+ димирович\nТип: лекция
+LOCATION:2-317
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (утро)
+DTSTART;TZID=Asia/Yekaterinburg:20260924T064500
+DTEND;TZID=Asia/Yekaterinburg:20260924T084500
+DTSTAMP:20261006T162706Z
+UID:bc18c9303c78d2e96a5731b4384e600b@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (вечер)
+DTSTART;TZID=Asia/Yekaterinburg:20260924T135000
+DTEND;TZID=Asia/Yekaterinburg:20260924T010000
+DTSTAMP:20261006T162706Z
+UID:4c29903061eee7fb436ecacbb2399c0f@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📚 Лекция: Программирование и прото
+ типирование ИТ-решений
+DTSTART;TZID=Asia/Yekaterinburg:20261124T143500
+DTEND;TZID=Asia/Yekaterinburg:20261124T161000
+DTSTAMP:20261006T162706Z
+UID:254ab1459f77cb6f7c8b57a4d7ff16e4@rusoil-schedule
+DESCRIPTION:Преподаватель: Ахметов Ильнур Ваз
+ ирович\nТип: лекция
+LOCATION:-
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (утро)
+DTSTART;TZID=Asia/Yekaterinburg:20261124T123500
+DTEND;TZID=Asia/Yekaterinburg:20261124T143500
+DTSTAMP:20261006T162706Z
+UID:e11c278026b607e49684587cea0c3211@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (вечер)
+DTSTART;TZID=Asia/Yekaterinburg:20261124T161000
+DTEND;TZID=Asia/Yekaterinburg:20261124T010000
+DTSTAMP:20261006T162706Z
+UID:b470f596830d4b2569fc30fd4a1cf6af@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Линейная алгебра и математический а
+ нализ (практическое занятие)
+DTSTART;TZID=Asia/Yekaterinburg:20260925T103000
+DTEND;TZID=Asia/Yekaterinburg:20260925T120500
+DTSTAMP:20261006T162706Z
+UID:2a0cf99dc6a83a0242595e2babd6eccd@rusoil-schedule
+DESCRIPTION:Преподаватель: Шарипов Артём Рази
+ левич\nТип: практическое занятие
+LOCATION:2-317
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:История России (практическое заняти
+ е)
+DTSTART;TZID=Asia/Yekaterinburg:20260925T143500
+DTEND;TZID=Asia/Yekaterinburg:20260925T161000
+DTSTAMP:20261006T162706Z
+UID:23c2cac409845684a307e144ad4c6bb2@rusoil-schedule
+DESCRIPTION:Преподаватель: Абросимов Никита С
+ ергеевич\nТип: практическое занятие
+LOCATION:3-411
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Основы российской государственност
+ и (практическое занятие)
+DTSTART;TZID=Asia/Yekaterinburg:20260925T162000
+DTEND;TZID=Asia/Yekaterinburg:20260925T175500
+DTSTAMP:20261006T162706Z
+UID:ed251325bb50777f0aab6923dd7f5b17@rusoil-schedule
+DESCRIPTION:Преподаватель: Гиндуллин Наиль Фа
+ нильевич\nТип: практическое занятие
+LOCATION:2-518
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (утро)
+DTSTART;TZID=Asia/Yekaterinburg:20260925T083000
+DTEND;TZID=Asia/Yekaterinburg:20260925T103000
+DTSTAMP:20261006T162706Z
+UID:d92b6377b679becdbf8e4d4e4a7b5f39@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (блок)
+DTSTART;TZID=Asia/Yekaterinburg:20260925T120500
+DTEND;TZID=Asia/Yekaterinburg:20260925T140500
+DTSTAMP:20261006T162706Z
+UID:77ad315618b0b7b2837d1aa30d4c78cd@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (вечер)
+DTSTART;TZID=Asia/Yekaterinburg:20260925T175500
+DTEND;TZID=Asia/Yekaterinburg:20260925T010000
+DTSTAMP:20261006T162706Z
+UID:f9fc0497514ed9f903e4f01846fbbbb7@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Программирование и прототипировани
+ е ИТ-решений (лаб.работа)
+DTSTART;TZID=Asia/Yekaterinburg:20261125T121500
+DTEND;TZID=Asia/Yekaterinburg:20261125T135000
+DTSTAMP:20261006T162706Z
+UID:680d20796560cdbf761f7e764b2fad6e@rusoil-schedule
+DESCRIPTION:Преподаватель: Ахметов Ильнур Ваз
+ ирович\nТип: лаб.работа
+LOCATION:Кампус-715
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Программирование и прототипировани
+ е ИТ-решений (лаб.работа)
+DTSTART;TZID=Asia/Yekaterinburg:20261125T121500
+DTEND;TZID=Asia/Yekaterinburg:20261125T135000
+DTSTAMP:20261006T162706Z
+UID:680d20796560cdbf761f7e764b2fad6e@rusoil-schedule
+DESCRIPTION:Преподаватель:   \nТип: лаб.работа
+LOCATION:Кампус-617\,1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Программирование и прототипировани
+ е ИТ-решений (лаб.работа)
+DTSTART;TZID=Asia/Yekaterinburg:20261125T143500
+DTEND;TZID=Asia/Yekaterinburg:20261125T161000
+DTSTAMP:20261006T162706Z
+UID:a3cfa93dae217886d2f5fbb6c83dd706@rusoil-schedule
+DESCRIPTION:Преподаватель: Ахметов Ильнур Ваз
+ ирович\nТип: лаб.работа
+LOCATION:Кампус-715
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Программирование и прототипировани
+ е ИТ-решений (лаб.работа)
+DTSTART;TZID=Asia/Yekaterinburg:20261125T143500
+DTEND;TZID=Asia/Yekaterinburg:20261125T161000
+DTSTAMP:20261006T162706Z
+UID:a3cfa93dae217886d2f5fbb6c83dd706@rusoil-schedule
+DESCRIPTION:Преподаватель:   \nТип: лаб.работа
+LOCATION:Кампус-617\,1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Программирование и прототипировани
+ е ИТ-решений (практическое занятие)
+DTSTART;TZID=Asia/Yekaterinburg:20261125T162000
+DTEND;TZID=Asia/Yekaterinburg:20261125T175500
+DTSTAMP:20261006T162706Z
+UID:b9d0a106eaa9f03dbfc47525db7dab0f@rusoil-schedule
+DESCRIPTION:Преподаватель: Ахметов Ильнур Ваз
+ ирович\nТип: практическое занятие
+LOCATION:Кампус-617\,1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (утро)
+DTSTART;TZID=Asia/Yekaterinburg:20261125T101500
+DTEND;TZID=Asia/Yekaterinburg:20261125T121500
+DTSTAMP:20261006T162706Z
+UID:9196ee6a44715dbf56ccdc45a9bdcb25@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (вечер)
+DTSTART;TZID=Asia/Yekaterinburg:20261125T175500
+DTEND;TZID=Asia/Yekaterinburg:20261125T010000
+DTSTAMP:20261006T162706Z
+UID:9fe6ea96fa313f6ad2690f4545c26697@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📚 Лекция: История России
+DTSTART;TZID=Asia/Yekaterinburg:20261026T103000
+DTEND;TZID=Asia/Yekaterinburg:20261026T120500
+DTSTAMP:20261006T162706Z
+UID:4a65fd16dbde6220c807d8f65dc3f9d0@rusoil-schedule
+DESCRIPTION:Преподаватель: Абросимов Никита С
+ ергеевич\nТип: лекция
+LOCATION:-
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Модуль по физической культуре и спо
+ рту (оздоровительная гимнастика) (практи
+ ческое занятие)
+DTSTART;TZID=Asia/Yekaterinburg:20261026T121500
+DTEND;TZID=Asia/Yekaterinburg:20261026T135000
+DTSTAMP:20261006T162706Z
+UID:64c3e8b485d794ab6a35bb415e338a72@rusoil-schedule
+DESCRIPTION:Преподаватель: Морошенко Екатери
+ на Витальевна\nТип: практическое занятие
+LOCATION:УФК-1-3
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Английский язык (базовый уровень) (п
+ рактическое занятие)
+DTSTART;TZID=Asia/Yekaterinburg:20261026T143500
+DTEND;TZID=Asia/Yekaterinburg:20261026T161000
+DTSTAMP:20261006T162706Z
+UID:bfa005f28a476b1576c9b0aa2e564ae0@rusoil-schedule
+DESCRIPTION:Преподаватель:   \nТип: практическо
+ е занятие
+LOCATION:-
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Английский язык (продвинутый уровен
+ ь) (практическое занятие)
+DTSTART;TZID=Asia/Yekaterinburg:20261026T143500
+DTEND;TZID=Asia/Yekaterinburg:20261026T161000
+DTSTAMP:20261006T162706Z
+UID:e8c2c46522fecce39ff5e715b942e8a6@rusoil-schedule
+DESCRIPTION:Преподаватель: Анохина Светлана З
+ агировна\nТип: практическое занятие
+LOCATION:-
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (утро)
+DTSTART;TZID=Asia/Yekaterinburg:20261026T083000
+DTEND;TZID=Asia/Yekaterinburg:20261026T103000
+DTSTAMP:20261006T162706Z
+UID:9099ebb3dadc40a21a2f53a2509fbea1@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (вечер)
+DTSTART;TZID=Asia/Yekaterinburg:20261026T161000
+DTEND;TZID=Asia/Yekaterinburg:20261026T010000
+DTSTAMP:20261006T162706Z
+UID:64e300d63270c81e2246730f063d5f85@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Модуль по физической культуре и спо
+ рту (оздоровительная гимнастика) (практи
+ ческое занятие)
+DTSTART;TZID=Asia/Yekaterinburg:20261126T084500
+DTEND;TZID=Asia/Yekaterinburg:20261126T102000
+DTSTAMP:20261006T162706Z
+UID:649c2e23585672e2540127b40dbe3664@rusoil-schedule
+DESCRIPTION:Преподаватель: Морошенко Екатери
+ на Витальевна\nТип: практическое занятие
+LOCATION:УФК-1-3
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📚 Лекция: Линейная алгебра и матема
+ тический анализ
+DTSTART;TZID=Asia/Yekaterinburg:20261126T121500
+DTEND;TZID=Asia/Yekaterinburg:20261126T135000
+DTSTAMP:20261006T162706Z
+UID:673b602583cbfb37447e41d55d79fdbf@rusoil-schedule
+DESCRIPTION:Преподаватель:   \nТип: лекция
+LOCATION:-
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (утро)
+DTSTART;TZID=Asia/Yekaterinburg:20261126T064500
+DTEND;TZID=Asia/Yekaterinburg:20261126T084500
+DTSTAMP:20261006T162706Z
+UID:5f637fcbc76ee735d36c1c2df679baec@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (вечер)
+DTSTART;TZID=Asia/Yekaterinburg:20261126T135000
+DTEND;TZID=Asia/Yekaterinburg:20261126T010000
+DTSTAMP:20261006T162706Z
+UID:2d96fba7692c3163200868521072045b@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Основы баз данных (лаб.работа)
+DTSTART;TZID=Asia/Yekaterinburg:20261127T121500
+DTEND;TZID=Asia/Yekaterinburg:20261127T135000
+DTSTAMP:20261006T162706Z
+UID:77565fb95b6f8af4ee34d5054e0e9c0d@rusoil-schedule
+DESCRIPTION:Преподаватель:   \nТип: лаб.работа
+LOCATION:Кампус-617\,1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Основы баз данных (лаб.работа)
+DTSTART;TZID=Asia/Yekaterinburg:20261127T121500
+DTEND;TZID=Asia/Yekaterinburg:20261127T135000
+DTSTAMP:20261006T162706Z
+UID:77565fb95b6f8af4ee34d5054e0e9c0d@rusoil-schedule
+DESCRIPTION:Преподаватель: Захаров Андрей Вла
+ димирович\nТип: лаб.работа
+LOCATION:Кампус-715
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Основы баз данных (лаб.работа)
+DTSTART;TZID=Asia/Yekaterinburg:20261127T143500
+DTEND;TZID=Asia/Yekaterinburg:20261127T161000
+DTSTAMP:20261006T162706Z
+UID:683f481c6a224770088663027fe28d46@rusoil-schedule
+DESCRIPTION:Преподаватель: Захаров Андрей Вла
+ димирович\nТип: лаб.работа
+LOCATION:Кампус-715
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Основы баз данных (лаб.работа)
+DTSTART;TZID=Asia/Yekaterinburg:20261127T143500
+DTEND;TZID=Asia/Yekaterinburg:20261127T161000
+DTSTAMP:20261006T162706Z
+UID:683f481c6a224770088663027fe28d46@rusoil-schedule
+DESCRIPTION:Преподаватель:   \nТип: лаб.работа
+LOCATION:Кампус-617\,1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Основы баз данных (практическое зан
+ ятие)
+DTSTART;TZID=Asia/Yekaterinburg:20261127T162000
+DTEND;TZID=Asia/Yekaterinburg:20261127T175500
+DTSTAMP:20261006T162706Z
+UID:1005ac70827a9ccd4e1b75f23d399074@rusoil-schedule
+DESCRIPTION:Преподаватель: Захаров Андрей Вла
+ димирович\nТип: практическое занятие
+LOCATION:Кампус-617\,1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (утро)
+DTSTART;TZID=Asia/Yekaterinburg:20261127T101500
+DTEND;TZID=Asia/Yekaterinburg:20261127T121500
+DTSTAMP:20261006T162706Z
+UID:a5321edfcabf44c2b201e6af912a0e1d@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (вечер)
+DTSTART;TZID=Asia/Yekaterinburg:20261127T175500
+DTEND;TZID=Asia/Yekaterinburg:20261127T010000
+DTSTAMP:20261006T162706Z
+UID:e855b91525c243b30da670f585ff06a9@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Основы российской государственност
+ и (практическое занятие)
+DTSTART;TZID=Asia/Yekaterinburg:20260928T084500
+DTEND;TZID=Asia/Yekaterinburg:20260928T102000
+DTSTAMP:20261006T162706Z
+UID:d89088c2320f73536ba0b48fff55245f@rusoil-schedule
+DESCRIPTION:Преподаватель: Гиндуллин Наиль Фа
+ нильевич\nТип: практическое занятие
+LOCATION:2-519
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Линейная алгебра и математический а
+ нализ (практическое занятие)
+DTSTART;TZID=Asia/Yekaterinburg:20260928T103000
+DTEND;TZID=Asia/Yekaterinburg:20260928T120500
+DTSTAMP:20261006T162706Z
+UID:d1cbb2481303d8984b83bf8a99d453c3@rusoil-schedule
+DESCRIPTION:Преподаватель: Шарипов Артём Рази
+ левич\nТип: практическое занятие
+LOCATION:3-211
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Модуль по физической культуре и спо
+ рту (оздоровительная гимнастика) (практи
+ ческое занятие)
+DTSTART;TZID=Asia/Yekaterinburg:20260928T121500
+DTEND;TZID=Asia/Yekaterinburg:20260928T135000
+DTSTAMP:20261006T162706Z
+UID:f11e651ca1473f7add0e2bbce33f919f@rusoil-schedule
+DESCRIPTION:Преподаватель: Морошенко Екатери
+ на Витальевна\nТип: практическое занятие
+LOCATION:УФК-1-3
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Английский язык (продвинутый уровен
+ ь) (практическое занятие)
+DTSTART;TZID=Asia/Yekaterinburg:20260928T143500
+DTEND;TZID=Asia/Yekaterinburg:20260928T161000
+DTSTAMP:20261006T162706Z
+UID:0cefaa023e0af75ceedd5b18ba3eea55@rusoil-schedule
+DESCRIPTION:Преподаватель: Анохина Светлана З
+ агировна\nТип: практическое занятие
+LOCATION:2-424
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (утро)
+DTSTART;TZID=Asia/Yekaterinburg:20260928T064500
+DTEND;TZID=Asia/Yekaterinburg:20260928T084500
+DTSTAMP:20261006T162706Z
+UID:bac67b2f30ba7a94b57a2de040c46b63@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (вечер)
+DTSTART;TZID=Asia/Yekaterinburg:20260928T161000
+DTEND;TZID=Asia/Yekaterinburg:20260928T010000
+DTSTAMP:20261006T162706Z
+UID:f3ae06bd9c541ddca58251a990775006@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Программирование и прототипировани
+ е ИТ-решений (практическое занятие)
+DTSTART;TZID=Asia/Yekaterinburg:20261028T121500
+DTEND;TZID=Asia/Yekaterinburg:20261028T135000
+DTSTAMP:20261006T162706Z
+UID:7ebdba5926791ce47b328b801dc2d158@rusoil-schedule
+DESCRIPTION:Преподаватель: Ахметов Ильнур Ваз
+ ирович\nТип: практическое занятие
+LOCATION:Кампус-617\,1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Основы баз данных (лаб.работа)
+DTSTART;TZID=Asia/Yekaterinburg:20261028T143500
+DTEND;TZID=Asia/Yekaterinburg:20261028T161000
+DTSTAMP:20261006T162706Z
+UID:1d02d2b6515f7c33e614281701e889e4@rusoil-schedule
+DESCRIPTION:Преподаватель: Захаров Андрей Вла
+ димирович\nТип: лаб.работа
+LOCATION:Кампус-614
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Основы баз данных (лаб.работа)
+DTSTART;TZID=Asia/Yekaterinburg:20261028T143500
+DTEND;TZID=Asia/Yekaterinburg:20261028T161000
+DTSTAMP:20261006T162706Z
+UID:1d02d2b6515f7c33e614281701e889e4@rusoil-schedule
+DESCRIPTION:Преподаватель:   \nТип: лаб.работа
+LOCATION:Кампус-729
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Основы баз данных (лаб.работа)
+DTSTART;TZID=Asia/Yekaterinburg:20261028T162000
+DTEND;TZID=Asia/Yekaterinburg:20261028T175500
+DTSTAMP:20261006T162706Z
+UID:4b8c40b3cfb39fd4d4e0895da88f9d73@rusoil-schedule
+DESCRIPTION:Преподаватель:   \nТип: лаб.работа
+LOCATION:Кампус-709
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Основы баз данных (лаб.работа)
+DTSTART;TZID=Asia/Yekaterinburg:20261028T162000
+DTEND;TZID=Asia/Yekaterinburg:20261028T175500
+DTSTAMP:20261006T162706Z
+UID:4b8c40b3cfb39fd4d4e0895da88f9d73@rusoil-schedule
+DESCRIPTION:Преподаватель: Захаров Андрей Вла
+ димирович\nТип: лаб.работа
+LOCATION:Кампус-614
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (утро)
+DTSTART;TZID=Asia/Yekaterinburg:20261028T101500
+DTEND;TZID=Asia/Yekaterinburg:20261028T121500
+DTSTAMP:20261006T162706Z
+UID:0f4b9ea8a708e3366986a8619c3837e4@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (вечер)
+DTSTART;TZID=Asia/Yekaterinburg:20261028T175500
+DTEND;TZID=Asia/Yekaterinburg:20261028T010000
+DTSTAMP:20261006T162706Z
+UID:38124cd74b3035dd0b1037dfd0c9371d@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:История России (практическое заняти
+ е)
+DTSTART;TZID=Asia/Yekaterinburg:20260929T121500
+DTEND;TZID=Asia/Yekaterinburg:20260929T135000
+DTSTAMP:20261006T162706Z
+UID:24ae2adfacce7b741cdb1d6bc4422453@rusoil-schedule
+DESCRIPTION:Преподаватель: Абросимов Никита С
+ ергеевич\nТип: практическое занятие
+LOCATION:4-415
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (утро)
+DTSTART;TZID=Asia/Yekaterinburg:20260929T101500
+DTEND;TZID=Asia/Yekaterinburg:20260929T121500
+DTSTAMP:20261006T162706Z
+UID:8fc247681a41e78c7a8356e698e553af@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (вечер)
+DTSTART;TZID=Asia/Yekaterinburg:20260929T135000
+DTEND;TZID=Asia/Yekaterinburg:20260929T010000
+DTSTAMP:20261006T162706Z
+UID:25a3746756deb8e26a4fd7d2005e010e@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Модуль по физической культуре и спо
+ рту (оздоровительная гимнастика) (практи
+ ческое занятие)
+DTSTART;TZID=Asia/Yekaterinburg:20261029T084500
+DTEND;TZID=Asia/Yekaterinburg:20261029T102000
+DTSTAMP:20261006T162706Z
+UID:269bc57bb168d34382c132c4d79a4d33@rusoil-schedule
+DESCRIPTION:Преподаватель: Морошенко Екатери
+ на Витальевна\nТип: практическое занятие
+LOCATION:УФК-1-3
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📚 Лекция: Программирование и прото
+ типирование ИТ-решений
+DTSTART;TZID=Asia/Yekaterinburg:20261029T103000
+DTEND;TZID=Asia/Yekaterinburg:20261029T120500
+DTSTAMP:20261006T162706Z
+UID:0cd0d2615d664350e101c98f0ebebc7e@rusoil-schedule
+DESCRIPTION:Преподаватель: Ахметов Ильнур Ваз
+ ирович\nТип: лекция
+LOCATION:-
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📚 Лекция: Основы российской госуда
+ рственности
+DTSTART;TZID=Asia/Yekaterinburg:20261029T121500
+DTEND;TZID=Asia/Yekaterinburg:20261029T135000
+DTSTAMP:20261006T162706Z
+UID:d747eea1e0a51b24d485a08f8ee7a5a3@rusoil-schedule
+DESCRIPTION:Преподаватель: Гиндуллин Наиль Фа
+ нильевич\nТип: лекция
+LOCATION:3-412
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📚 Лекция: Линейная алгебра и матема
+ тический анализ
+DTSTART;TZID=Asia/Yekaterinburg:20261029T143500
+DTEND;TZID=Asia/Yekaterinburg:20261029T161000
+DTSTAMP:20261006T162706Z
+UID:9e139484ad257674b6cfff5f82c73be4@rusoil-schedule
+DESCRIPTION:Преподаватель:   \nТип: лекция
+LOCATION:-
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (утро)
+DTSTART;TZID=Asia/Yekaterinburg:20261029T064500
+DTEND;TZID=Asia/Yekaterinburg:20261029T084500
+DTSTAMP:20261006T162706Z
+UID:54345726e06572ea5e72461e5d386a0f@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (вечер)
+DTSTART;TZID=Asia/Yekaterinburg:20261029T161000
+DTEND;TZID=Asia/Yekaterinburg:20261029T010000
+DTSTAMP:20261006T162706Z
+UID:64945a913f0d0007e422b151ed926cab@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📚 Лекция: Основы баз данных
+DTSTART;TZID=Asia/Yekaterinburg:20260930T103000
+DTEND;TZID=Asia/Yekaterinburg:20260930T120500
+DTSTAMP:20261006T162706Z
+UID:b5f8549b3853f3635a8916f6b5682d0e@rusoil-schedule
+DESCRIPTION:Преподаватель: Захаров Андрей Вла
+ димирович\nТип: лекция
+LOCATION:2-215
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📚 Лекция: История России
+DTSTART;TZID=Asia/Yekaterinburg:20260930T121500
+DTEND;TZID=Asia/Yekaterinburg:20260930T135000
+DTSTAMP:20261006T162706Z
+UID:58dbfad26cbaafe6703d76d85ff7ffad@rusoil-schedule
+DESCRIPTION:Преподаватель: Абросимов Никита С
+ ергеевич\nТип: лекция
+LOCATION:2-317
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📚 Лекция: Линейная алгебра и матема
+ тический анализ
+DTSTART;TZID=Asia/Yekaterinburg:20260930T143500
+DTEND;TZID=Asia/Yekaterinburg:20260930T161000
+DTSTAMP:20261006T162706Z
+UID:d2742274a8c75a5fa867533164104b73@rusoil-schedule
+DESCRIPTION:Преподаватель:   \nТип: лекция
+LOCATION:1-359
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (утро)
+DTSTART;TZID=Asia/Yekaterinburg:20260930T083000
+DTEND;TZID=Asia/Yekaterinburg:20260930T103000
+DTSTAMP:20261006T162706Z
+UID:deeee04fc52eb3e35445aa364af34742@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (вечер)
+DTSTART;TZID=Asia/Yekaterinburg:20260930T161000
+DTEND;TZID=Asia/Yekaterinburg:20260930T010000
+DTSTAMP:20261006T162706Z
+UID:e36d41325c96bcab6e58573ce45c8688@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📚 Лекция: Основы баз данных
+DTSTART;TZID=Asia/Yekaterinburg:20261030T084500
+DTEND;TZID=Asia/Yekaterinburg:20261030T102000
+DTSTAMP:20261006T162706Z
+UID:f95bc6d09f8f5ad3a032cad7cd65433f@rusoil-schedule
+DESCRIPTION:Преподаватель: Захаров Андрей Вла
+ димирович\nТип: лекция
+LOCATION:-
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📚 Лекция: Линейная алгебра и матема
+ тический анализ
+DTSTART;TZID=Asia/Yekaterinburg:20261030T121500
+DTEND;TZID=Asia/Yekaterinburg:20261030T135000
+DTSTAMP:20261006T162706Z
+UID:953f3891286b2809a42e6e7e88b63b58@rusoil-schedule
+DESCRIPTION:Преподаватель:   \nТип: лекция
+LOCATION:-
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📚 Лекция: Программирование и прото
+ типирование ИТ-решений
+DTSTART;TZID=Asia/Yekaterinburg:20261030T143500
+DTEND;TZID=Asia/Yekaterinburg:20261030T161000
+DTSTAMP:20261006T162706Z
+UID:d178c9cf1e97b17967529c25effb7a62@rusoil-schedule
+DESCRIPTION:Преподаватель: Ахметов Ильнур Ваз
+ ирович\nТип: лекция
+LOCATION:-
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (утро)
+DTSTART;TZID=Asia/Yekaterinburg:20261030T064500
+DTEND;TZID=Asia/Yekaterinburg:20261030T084500
+DTSTAMP:20261006T162706Z
+UID:381d596f4bdfcdc97a26119a41c3fee8@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (вечер)
+DTSTART;TZID=Asia/Yekaterinburg:20261030T161000
+DTEND;TZID=Asia/Yekaterinburg:20261030T010000
+DTSTAMP:20261006T162706Z
+UID:b20dc88781dd4bd3dde9c74262a80eac@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Модуль по физической культуре и спо
+ рту (оздоровительная гимнастика) (практи
+ ческое занятие)
+DTSTART;TZID=Asia/Yekaterinburg:20261130T121500
+DTEND;TZID=Asia/Yekaterinburg:20261130T135000
+DTSTAMP:20261006T162706Z
+UID:6fd9538142c8e28336a46f4cd3436db1@rusoil-schedule
+DESCRIPTION:Преподаватель: Морошенко Екатери
+ на Витальевна\nТип: практическое занятие
+LOCATION:УФК-1-3
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Английский язык (базовый уровень) (п
+ рактическое занятие)
+DTSTART;TZID=Asia/Yekaterinburg:20261130T143500
+DTEND;TZID=Asia/Yekaterinburg:20261130T161000
+DTSTAMP:20261006T162706Z
+UID:532f3f3a15291e0be08ff21478c86382@rusoil-schedule
+DESCRIPTION:Преподаватель:   \nТип: практическо
+ е занятие
+LOCATION:-
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Английский язык (продвинутый уровен
+ ь) (практическое занятие)
+DTSTART;TZID=Asia/Yekaterinburg:20261130T143500
+DTEND;TZID=Asia/Yekaterinburg:20261130T161000
+DTSTAMP:20261006T162706Z
+UID:92026c67ef50d336907f52e052af6023@rusoil-schedule
+DESCRIPTION:Преподаватель: Анохина Светлана З
+ агировна\nТип: практическое занятие
+LOCATION:-
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (утро)
+DTSTART;TZID=Asia/Yekaterinburg:20261130T101500
+DTEND;TZID=Asia/Yekaterinburg:20261130T121500
+DTSTAMP:20261006T162706Z
+UID:e2c61d2aab42d21901b5d95f997e4bd7@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (вечер)
+DTSTART;TZID=Asia/Yekaterinburg:20261130T161000
+DTEND;TZID=Asia/Yekaterinburg:20261130T010000
+DTSTAMP:20261006T162706Z
+UID:cb96b977b92d543692903ed8278c8e9b@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Программирование и прототипировани
+ е ИТ-решений (лаб.работа)
+DTSTART;TZID=Asia/Yekaterinburg:20261031T084500
+DTEND;TZID=Asia/Yekaterinburg:20261031T102000
+DTSTAMP:20261006T162706Z
+UID:0f5a8bd12499c121319a2c5c8df7da8f@rusoil-schedule
+DESCRIPTION:Преподаватель:   \nТип: лаб.работа
+LOCATION:Кампус-617\,1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Программирование и прототипировани
+ е ИТ-решений (лаб.работа)
+DTSTART;TZID=Asia/Yekaterinburg:20261031T084500
+DTEND;TZID=Asia/Yekaterinburg:20261031T102000
+DTSTAMP:20261006T162706Z
+UID:0f5a8bd12499c121319a2c5c8df7da8f@rusoil-schedule
+DESCRIPTION:Преподаватель: Ахметов Ильнур Ваз
+ ирович\nТип: лаб.работа
+LOCATION:Кампус-715
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Программирование и прототипировани
+ е ИТ-решений (лаб.работа)
+DTSTART;TZID=Asia/Yekaterinburg:20261031T103000
+DTEND;TZID=Asia/Yekaterinburg:20261031T120500
+DTSTAMP:20261006T162706Z
+UID:09573ca55a5ac618fdac6909a3960a8a@rusoil-schedule
+DESCRIPTION:Преподаватель: Ахметов Ильнур Ваз
+ ирович\nТип: лаб.работа
+LOCATION:Кампус-715
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Программирование и прототипировани
+ е ИТ-решений (лаб.работа)
+DTSTART;TZID=Asia/Yekaterinburg:20261031T103000
+DTEND;TZID=Asia/Yekaterinburg:20261031T120500
+DTSTAMP:20261006T162706Z
+UID:09573ca55a5ac618fdac6909a3960a8a@rusoil-schedule
+DESCRIPTION:Преподаватель:   \nТип: лаб.работа
+LOCATION:Кампус-617\,1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (утро)
+DTSTART;TZID=Asia/Yekaterinburg:20261031T064500
+DTEND;TZID=Asia/Yekaterinburg:20261031T084500
+DTSTAMP:20261006T162706Z
+UID:460f2c3896492a18b8c3d5bd0be61039@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💼 Работа (вечер)
+DTSTART;TZID=Asia/Yekaterinburg:20261031T120500
+DTEND;TZID=Asia/Yekaterinburg:20261031T010000
+DTSTAMP:20261006T162706Z
+UID:f89ffbfd2fd04512de3dd009bde3f713@rusoil-schedule
+DESCRIPTION:Тип: рабочие часы
+LOCATION:Удаленно / Офис
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
