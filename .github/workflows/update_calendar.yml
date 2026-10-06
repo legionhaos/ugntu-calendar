@@ -1,0 +1,149 @@
+# Генерация и публикация calendar.ics через GitHub Pages
+#
+# Подписка на iPhone:
+#   Настройки → Календарь → Учётные записи → Добавить →
+#   Подписной календарь → URL:
+#   https://<username>.github.io/<repo>/calendar.ics
+
+name: Update Calendar
+
+on:
+  schedule:
+    # Каждый день в 06:00 UTC (11:00 по Екатеринбургу)
+    - cron: '0 6 * * *'
+  workflow_dispatch:  # ручной запуск
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Generate calendar.ics
+        run: python generate_calendar.py --output _site/calendar.ics --verbose
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+
+      - name: Create index.html for GitHub Pages
+        run: |
+          cat > _site/index.html << 'EOF'
+          <!DOCTYPE html>
+          <html lang="ru">
+          <head>
+            <meta charset="utf-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1">
+            <title>Подписной календарь БЦШ02-26-02</title>
+            <style>
+              * { margin: 0; padding: 0; box-sizing: border-box; }
+              body {
+                font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+                background: linear-gradient(135deg, #0f0c29, #302b63, #24243e);
+                min-height: 100vh;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                color: #e0e0e0;
+              }
+              .card {
+                background: rgba(255,255,255,0.07);
+                backdrop-filter: blur(20px);
+                border: 1px solid rgba(255,255,255,0.12);
+                border-radius: 24px;
+                padding: 48px;
+                max-width: 520px;
+                text-align: center;
+              }
+              h1 { font-size: 1.8em; margin-bottom: 16px; }
+              p { line-height: 1.6; margin-bottom: 20px; opacity: 0.85; }
+              .url {
+                background: rgba(0,0,0,0.3);
+                border-radius: 12px;
+                padding: 14px;
+                font-family: monospace;
+                font-size: 0.85em;
+                word-break: break-all;
+                margin-bottom: 24px;
+                border: 1px solid rgba(255,255,255,0.08);
+              }
+              a.btn {
+                display: inline-block;
+                background: linear-gradient(135deg, #667eea, #764ba2);
+                color: #fff;
+                text-decoration: none;
+                padding: 14px 32px;
+                border-radius: 14px;
+                font-weight: 600;
+                transition: transform 0.2s, box-shadow 0.2s;
+              }
+              a.btn:hover {
+                transform: translateY(-2px);
+                box-shadow: 0 8px 30px rgba(102,126,234,0.4);
+              }
+              .instructions {
+                margin-top: 32px;
+                text-align: left;
+                font-size: 0.9em;
+              }
+              .instructions li { margin-bottom: 8px; }
+            </style>
+          </head>
+          <body>
+            <div class="card">
+              <h1>📅 Расписание БЦШ02-26-02</h1>
+              <p>Подписной календарь, обновляется ежедневно автоматически.</p>
+              <div class="url" id="cal-url">Загрузка…</div>
+              <a class="btn" id="subscribe-link" href="#">Подписаться</a>
+              <div class="instructions">
+                <p><strong>Как подписаться вручную:</strong></p>
+                <ol>
+                  <li>📱 iPhone: Настройки → Календарь → Учётные записи → Добавить → Подписной календарь</li>
+                  <li>🤖 Android: Google Calendar → Настройки → Добавить календарь → По URL</li>
+                  <li>💻 Outlook: Файл → Настройки → Календарь → Подписки</li>
+                </ol>
+              </div>
+            </div>
+            <script>
+              const base = location.href.replace(/\/?(index\.html)?$/, '');
+              const url = base + '/calendar.ics';
+              const webcal = url.replace(/^https?/, 'webcal');
+              document.getElementById('cal-url').textContent = url;
+              document.getElementById('subscribe-link').href = webcal;
+            </script>
+          </body>
+          </html>
+          EOF
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+  deploy:
+    needs: generate
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deploy
+        uses: actions/deploy-pages@v4

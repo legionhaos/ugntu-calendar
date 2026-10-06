@@ -1,0 +1,8 @@
+env
+.env
+*.ics
+schedule_state.json
+__pycache__/
+*.pyc
+.venv/
+_site/
