@@ -81,7 +81,7 @@ def main() -> None:
     output_path.parent.mkdir(parents=True, exist_ok=True)
     saved = save_ics(ics_bytes, output_path)
 
-    print(f"✅ Календарь сохранён: {saved}")
+    print(f"Календарь сохранен: {saved}")
     print(f"   Событий: {len(lessons)}, размер: {len(ics_bytes)} байт")
 
     # --- 5. Опциональное уведомление ---

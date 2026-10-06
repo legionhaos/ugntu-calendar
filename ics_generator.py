@@ -82,7 +82,12 @@ def build_ics(
     cal.add("X-WR-TIMEZONE", "Asia/Yekaterinburg")
     cal.add("X-PUBLISHED-TTL", REFRESH_INTERVAL)
 
+    work_blocks_count = 0
     for lesson in lessons:
+        if lesson.get("type") != "рабочие часы":
+            continue
+
+        work_blocks_count += 1
         start_str, end_str = lesson["time"].split("-")
         start = _parse_dt(lesson["date"], start_str)
         end = _parse_dt(lesson["date"], end_str)
@@ -92,11 +97,7 @@ def build_ics(
 
         # Формируем SUMMARY
         subject = lesson["subject"]
-        lesson_type = lesson.get("type", "")
-        if lesson_type and lesson_type != "рабочие часы":
-            summary = f"📚 Лекция: {subject}" if "лекци" in lesson_type.lower() else f"{subject} ({lesson_type})"
-        else:
-            summary = subject  # рабочие блоки уже содержат эмодзи в subject
+        summary = subject  # рабочие блоки уже содержат эмодзи в subject
         event.add("summary", summary)
 
         event.add("dtstart", start)
@@ -107,8 +108,8 @@ def build_ics(
         desc_parts: list[str] = []
         if lesson.get("teacher"):
             desc_parts.append(f"Преподаватель: {lesson['teacher']}")
-        if lesson_type:
-            desc_parts.append(f"Тип: {lesson_type}")
+        if lesson.get("type"):
+            desc_parts.append(f"Тип: {lesson['type']}")
         if desc_parts:
             event.add("description", "\n".join(desc_parts))
 
@@ -121,7 +122,7 @@ def build_ics(
         cal.add_component(event)
 
     ics_bytes = cal.to_ical()
-    logger.info("Сгенерирован .ics: %d событий, %d байт", len(lessons), len(ics_bytes))
+    logger.info("Сгенерирован .ics: %d событий, %d байт", work_blocks_count, len(ics_bytes))
     return ics_bytes
 
 
@@ -144,5 +145,5 @@ if __name__ == "__main__":
     lessons = inject_work_blocks(fetch_all_lessons())
     ics_bytes = build_ics(lessons)
     path = save_ics(ics_bytes)
-    print(f"✅ Календарь сохранён: {path}")
+    print(f"Календарь сохранен: {path}")
     print(f"   Событий: {len(lessons)}, размер: {len(ics_bytes)} байт")

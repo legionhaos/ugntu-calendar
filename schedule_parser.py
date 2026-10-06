@@ -48,13 +48,24 @@ HEADERS: dict[str, str] = {
 #  Скрейпинг
 # ---------------------------------------------------------------------------
 
+def get_free_ru_proxies() -> list[str]:
+    """Скачивает актуальный список бесплатных российских прокси."""
+    url = "https://api.proxyscrape.com/v4/free-proxy-list/get?request=display_proxies&country=RU&proxy_format=protocolipport&format=text"
+    try:
+        resp = requests.get(url, timeout=10)
+        resp.raise_for_status()
+        proxies = [p.strip() for p in resp.text.splitlines() if p.strip()]
+        return proxies[:10]  # Берем первые 10 для проверки
+    except Exception as exc:
+        logger.warning("Не удалось получить список прокси: %s", exc)
+        return []
+
+
 def make_session(
     group_name: str = GROUP_NAME,
     group_id: int = GROUP_ID,
 ) -> requests.Session:
-    """Создаёт HTTP-сессию с инициализацией страницы расписания."""
-    session = requests.Session()
-    session.headers.update(HEADERS)
+    """Создаёт HTTP-сессию. При недоступности сайта в РФ использует бесплатные прокси."""
     search_param = json.dumps(
         {
             "value": group_name,
@@ -66,13 +77,38 @@ def make_session(
         },
         ensure_ascii=False,
     )
-    resp = session.get(
-        f"{BASE_URL}/",
-        params={"page": "schedule", "search": search_param},
-        timeout=REQUEST_TIMEOUT_SECONDS,
-    )
-    resp.raise_for_status()
-    return session
+    params = {"page": "schedule", "search": search_param}
+
+    # 1. Попытка прямого подключения
+    session = requests.Session()
+    session.headers.update(HEADERS)
+    try:
+        logger.info("Попытка прямого подключения к %s ...", BASE_URL)
+        resp = session.get(f"{BASE_URL}/", params=params, timeout=10)
+        resp.raise_for_status()
+        logger.info("Прямое подключение успешно.")
+        return session
+    except (requests.exceptions.ConnectionError, requests.exceptions.Timeout) as exc:
+        logger.warning("Прямое подключение не удалось (вероятно блокировка по Geo-IP): %s", exc)
+
+    # 2. Попытка подключения через прокси
+    logger.info("Загружаем список бесплатных RU прокси для обхода блокировки...")
+    proxies = get_free_ru_proxies()
+    
+    for p in proxies:
+        logger.info("Пробуем прокси: %s", p)
+        proxy_session = requests.Session()
+        proxy_session.headers.update(HEADERS)
+        proxy_session.proxies.update({"http": p, "https": p})
+        try:
+            resp = proxy_session.get(f"{BASE_URL}/", params=params, timeout=10)
+            resp.raise_for_status()
+            logger.info("Успешно подключились через прокси: %s", p)
+            return proxy_session
+        except Exception as exc:
+            logger.debug("Прокси %s не сработал: %s", p, exc)
+
+    raise ConnectionError("Не удалось подключиться к сайту ни напрямую, ни через прокси.")
 
 
 def fetch_week_raw(session: requests.Session, week: int) -> list[dict[str, Any]]:
@@ -164,89 +200,121 @@ def _parse_time(date_str: str, time_str: str) -> datetime:
     return datetime.strptime(f"{date_str} {time_str}", "%d.%m.%Y %H:%M")
 
 
-def _make_work_event(
+def _make_custom_event(
     date_str: str,
     start: datetime,
     end: datetime,
-    label: str,
+    subject: str,
 ) -> dict[str, Any]:
-    """Создаёт словарь рабочего блока."""
+    """Создаёт словарь рабочего/кастомного блока."""
     return {
         "date": date_str,
         "time": f"{start.strftime('%H:%M')}-{end.strftime('%H:%M')}",
-        "subject": f"💼 Работа ({label})",
+        "subject": subject,
         "type": "рабочие часы",
         "teacher": "",
         "room": "Удаленно / Офис",
-        "uid": f"work_{date_str}_{start.strftime('%H%M')}_{label}",
+        "uid": f"work_{date_str}_{start.strftime('%H%M')}_{md5(subject.encode('utf-8')).hexdigest()[:8]}",
     }
 
 
 def inject_work_blocks(lessons: list[dict[str, Any]]) -> list[dict[str, Any]]:
     """
     Добавляет рабочие блоки вокруг пар по правилам:
-
-    - «💼 Работа (утро)»  — ровно 2 часа перед первой парой дня.
-    - «💼 Работа (блок)»  — 2-часовой блок между парами, если окно ≥ 2ч.
-    - «💼 Работа (вечер)» — сразу после последней пары и до 01:00 ночи.
-
-    Пары приоритетны и не сдвигаются; рабочие блоки не пересекаются с парами.
+    - Только рабочие блоки попадают в календарь (через фильтрацию в ics_generator).
+    - Утро: Поздний старт (>= 12:15) — буфер 1.5 часа, старт не раньше 09:00.
+    - Утро: Обычный старт (< 12:15) — буфер 1 час, старт не раньше 08:00.
+    - Окна >= 3 часов превращаются в рабочий блок (буфер 1 час с каждой стороны).
+    - Вечер: Буфер 1.5 часа после последней пары -> Лекция (1.5 часа) -> Работа (2 часа).
+    - Если пар нет: Лекция 18:00-19:30, Работа 19:30-21:30.
     """
+    if not lessons:
+        return []
+
     # Группировка по дням
-    days: dict[str, list[dict[str, Any]]] = {}
+    days_dict: dict[str, list[dict[str, Any]]] = {}
     for lesson in lessons:
-        days.setdefault(lesson["date"], []).append(lesson)
+        days_dict.setdefault(lesson["date"], []).append(lesson)
+
+    dates = [datetime.strptime(d, "%d.%m.%Y").date() for d in days_dict.keys()]
+    min_date = min(dates)
+    max_date = max(dates)
 
     result: list[dict[str, Any]] = []
-    work_duration = timedelta(hours=2)
 
-    for date_str, day_lessons in sorted(days.items()):
-        # Сортируем пары по времени начала
-        day_lessons.sort(
-            key=lambda x: datetime.strptime(x["time"].split("-")[0], "%H:%M")
-        )
+    curr_date = min_date
+    while curr_date <= max_date:
+        date_str = curr_date.strftime("%d.%m.%Y")
+        day_lessons = days_dict.get(date_str, [])
+        
+        # Оставляем пары в результате для diff-ов и бота
         result.extend(day_lessons)
 
-        # Собираем интервалы занятости
-        occupied: list[tuple[datetime, datetime]] = []
-        for les in day_lessons:
-            s_str, e_str = les["time"].split("-")
-            occupied.append((
-                _parse_time(date_str, s_str),
-                _parse_time(date_str, e_str),
-            ))
+        day_base = datetime.combine(curr_date, datetime.min.time())
 
-        if not occupied:
-            continue
-
-        first_start = occupied[0][0]
-        last_end = occupied[-1][1]
-
-        # --- Утро: ровно 2 часа перед первой парой ---
-        morning_start = first_start - work_duration
-        if morning_start.hour >= 0:  # не уходим в отрицательное время
-            result.append(
-                _make_work_event(date_str, morning_start, first_start, "утро")
+        if not day_lessons:
+            # Если пар нет вообще — вечерняя связка по умолчанию
+            lecture_start = day_base + timedelta(hours=18)
+            lecture_end = lecture_start + timedelta(hours=1, minutes=30)
+            work_end = lecture_end + timedelta(hours=2)
+            
+            result.append(_make_custom_event(date_str, lecture_start, lecture_end, "Подготовка к хакатону: Лекция"))
+            result.append(_make_custom_event(date_str, lecture_end, work_end, "Работа / Фокус"))
+        else:
+            # Сортируем пары по времени начала
+            day_lessons.sort(
+                key=lambda x: datetime.strptime(x["time"].split("-")[0], "%H:%M")
             )
 
-        # --- Блоки между парами (окна ≥ 2 часов) ---
-        for i in range(len(occupied) - 1):
-            gap_start = occupied[i][1]
-            gap_end = occupied[i + 1][0]
-            gap = gap_end - gap_start
-            if gap >= work_duration:
-                block_end = gap_start + work_duration
-                result.append(
-                    _make_work_event(date_str, gap_start, block_end, "блок")
-                )
+            # Собираем интервалы занятости
+            occupied: list[tuple[datetime, datetime]] = []
+            for les in day_lessons:
+                s_str, e_str = les["time"].split("-")
+                occupied.append((
+                    _parse_time(date_str, s_str),
+                    _parse_time(date_str, e_str),
+                ))
 
-        # --- Вечер: сразу после последней пары до 01:00 ночи ---
-        day_base = _parse_time(date_str, "00:00")
-        evening_end = day_base + timedelta(days=1, hours=1)  # 01:00 следующего дня
-        if last_end < evening_end:
-            result.append(
-                _make_work_event(date_str, last_end, evening_end, "вечер")
-            )
+            first_start = occupied[0][0]
+            last_end = occupied[-1][1]
+
+            # --- Утро ---
+            if first_start.hour * 60 + first_start.minute >= 12 * 60 + 15:
+                # Поздний старт (>= 12:15)
+                work_start = day_base + timedelta(hours=9)
+                work_end = first_start - timedelta(hours=1, minutes=30)
+                if work_end - work_start >= timedelta(hours=1):
+                    result.append(_make_custom_event(date_str, work_start, work_end, "Работа / Фокус"))
+            else:
+                # Ранний старт (< 12:15)
+                work_start = day_base + timedelta(hours=8)
+                work_end = first_start - timedelta(hours=1)
+                if work_end - work_start >= timedelta(hours=1):
+                    result.append(_make_custom_event(date_str, work_start, work_end, "Работа / Фокус"))
+
+            # --- Окна (блок) ---
+            for i in range(len(occupied) - 1):
+                gap_start = occupied[i][1]
+                gap_end = occupied[i + 1][0]
+                
+                # Буфер 1 час с обеих сторон
+                block_start = gap_start + timedelta(hours=1)
+                block_end = gap_end - timedelta(hours=1)
+                
+                # Чистое оставшееся время работы составляет не менее 1 часа (окно >= 3 часов)
+                if block_end - block_start >= timedelta(hours=1):
+                    result.append(_make_custom_event(date_str, block_start, block_end, "Работа / Фокус"))
+
+            # --- Вечер ---
+            # Буфер 1.5 часа после последней пары
+            lecture_start = last_end + timedelta(hours=1, minutes=30)
+            lecture_end = lecture_start + timedelta(hours=1, minutes=30)
+            work_end = lecture_end + timedelta(hours=2)
+            
+            result.append(_make_custom_event(date_str, lecture_start, lecture_end, "Подготовка к хакатону: Лекция"))
+            result.append(_make_custom_event(date_str, lecture_end, work_end, "Работа / Фокус"))
+
+        curr_date += timedelta(days=1)
 
     return result
 
